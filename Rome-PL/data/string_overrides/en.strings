@@ -40,3 +40,10 @@
 "Rome.InGame.UI_FERAL_LP_SUPPORT_MANUAL" = "Wiki";
 "Rome.InGame.UI_FERAL_LP_SUPPORT_PRIVACY" = "Polityka prywatności";
 "Rome.InGame.UI_FERAL_LP_SUPPORT_PRIVACY_TITLE" = "POLITYKA PRYWATNOŚCI";
+
+"Rome.InGame.UI_FERAL_CAMPAIGN" = "KAMPANIA IMPERIALNA";
+"Rome.InGame.UI_FERAL_CAMPAIGN_SETTINGS_TEXT" = "USTAWIENIA KAMPANII";
+"Rome.InGame.UI_FERAL_CAMPAIGN_INTRODUCTION_TEXT" = "Włącz samouczek";
+"Rome.InGame.UI_FERAL_CAMPAIGN_INTRODUCTION_CHECK_TOOLTIP" = "Zaznacz to pole, aby przejść wprowadzenie do gry. Zalecane przy pierwszej rozgrywce w ROME REMASTERED.";
+"Rome.InGame.UI_FERAL_CAMPAIGN_MODIFIER_LABEL" = "Modyfikatory";
+"Rome.InGame.UI_FERAL_CAMPAIGN_START" = "Rozpocznij kampanię";
