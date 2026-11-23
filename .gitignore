@@ -1,0 +1,17 @@
+# Lokalne kopie oryginalnych plikow gry
+/game-original/
+
+# Gotowe paczki moda i pliki tymczasowe narzedzi
+/dist/
+/tmp/
+
+# Kopie zapasowe i pliki tymczasowe edytorow
+*.bak
+*.tmp
+*.swp
+*~
+
+# Pliki systemowe
+Thumbs.db
+Desktop.ini
+.DS_Store
