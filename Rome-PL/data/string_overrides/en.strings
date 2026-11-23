@@ -1,3 +1,4 @@
+/* Menu główne */
 "Rome.InGame.UI_FERAL_LP_RESUME" = "Kontynuuj";
 "Rome.InGame.UI_FERAL_LP_NEW_GAME" = "Nowa gra";
 "Rome.InGame.UI_FERAL_LP_LOAD" = "Wczytaj grę";
@@ -6,6 +7,7 @@
 "Rome.InGame.UI_FERAL_LP_SUPPORT" = "Pomoc i wsparcie";
 "Rome.InGame.UI_FERAL_LP_QUIT" = "Wyjdź do pulpitu";
 
+/* Menu Ustawienia */
 "Rome.InGame.UI_FERAL_LP_OPTIONS_AUDIO" = "Ustawienia dźwięku";
 "Rome.InGame.UI_FERAL_LP_OPTIONS_CONTROL" = "Ustawienia sterowania";
 "Rome.InGame.UI_FERAL_LP_OPTIONS_CREDITS" = "Zobacz listę twórców";
@@ -13,20 +15,24 @@
 "Rome.InGame.UI_FERAL_LP_OPTIONS_GRAPHICS" = "Ustawienia grafiki";
 "Rome.InGame.UI_FERAL_LP_OPTIONS_HELPSHEET" = "Pokaż panel pomocy";
 
+/* Menu Nowa gra */
 "Rome.InGame.UI_FERAL_LP_CAMPAIGN" = "Kampania imperialna";
 "Rome.InGame.UI_FERAL_LP_BATTLE_QUICK" = "Szybka bitwa";
 "Rome.InGame.UI_FERAL_LP_BATTLE_CUSTOM" = "Bitwa niestandardowa";
 "Rome.InGame.UI_FERAL_LP_BATTLE_HISTORICAL" = "Bitwa historyczna";
 "Rome.InGame.UI_FERAL_LP_TOURNAMENT" = "Turniej bitewny";
 
+/* Menu Gra wieloosobowa */
 "Rome.InGame.UI_FERAL_LP_BATTLE_MULTIPLAYER" = "Bitwa wieloosobowa";
 "Rome.InGame.UI_FERAL_LP_BATTLE_ONLINE" = "Gra przez Internet";
 "Rome.InGame.UI_FERAL_LP_BATTLE_LAN" = "Gra w sieci lokalnej";
 
+/* Menu Wczytaj grę */
 "Rome.InGame.UI_FERAL_LP_LOAD_CAMPAIGN" = "Wczytaj kampanię";
 "Rome.InGame.UI_FERAL_LP_LOAD_BATTLE" = "Wczytaj bitwę";
 "Rome.InGame.UI_FERAL_LP_LOAD_REPLAY" = "Wczytaj powtórkę";
 
+/* Menu Pomoc i wsparcie */
 "Rome.InGame.UI_FERAL_LP_SUPPORT_FAQ" = "Zobacz najczęstsze pytania";
 "Rome.InGame.UI_FERAL_LP_SUPPORT_FAQ_TITLE" = "NAJCZĘSTSZE PYTANIA";
 "Rome.InGame.UI_FERAL_LP_SUPPORT_FAQ_CONFIRM_TOOLTIP" = "Otwórz najczęstsze pytania (otwiera przeglądarkę)";
@@ -41,9 +47,67 @@
 "Rome.InGame.UI_FERAL_LP_SUPPORT_PRIVACY" = "Polityka prywatności";
 "Rome.InGame.UI_FERAL_LP_SUPPORT_PRIVACY_TITLE" = "POLITYKA PRYWATNOŚCI";
 
+/* Ekran ustawień kampanii */
 "Rome.InGame.UI_FERAL_CAMPAIGN" = "KAMPANIA IMPERIALNA";
 "Rome.InGame.UI_FERAL_CAMPAIGN_SETTINGS_TEXT" = "USTAWIENIA KAMPANII";
 "Rome.InGame.UI_FERAL_CAMPAIGN_INTRODUCTION_TEXT" = "Włącz samouczek";
 "Rome.InGame.UI_FERAL_CAMPAIGN_INTRODUCTION_CHECK_TOOLTIP" = "Zaznacz to pole, aby przejść wprowadzenie do gry. Zalecane przy pierwszej rozgrywce w ROME REMASTERED.";
 "Rome.InGame.UI_FERAL_CAMPAIGN_MODIFIER_LABEL" = "Modyfikatory";
 "Rome.InGame.UI_FERAL_CAMPAIGN_START" = "Rozpocznij kampanię";
+
+/* Ustawienia grafiki */
+"Rome.InGame.UI_VIDEO_DISPLAY_MODE" = "Tryb wyświetlania";
+"Rome.InGame.UI_VIDEO_DISPLAY_MODE_INFO" = "Wybierz sposób wyświetlania gry.";
+"Rome.InGame.UI_VIDEO_DISPLAY_FULLSCREEN" = "Pełny ekran";
+"Rome.InGame.UI_VIDEO_DISPLAY_WINDOWED" = "W oknie";
+"Rome.InGame.UI_VIDEO_DISPLAY_BORDERLESS" = "Okno bez ramek";
+"Rome.InGame.UI_VIDEO_RESOLUTION_SCALE" = "Skalowanie rozdzielczości";
+"Rome.InGame.UI_VIDEO_GAMEPLAY_SCALE" = "Skalowanie rozdzielczości";
+"Rome.InGame.UI_VIDEO_RESOLUTION_SCALE_INFO" = "Dostosuj rozdzielczość renderowania 3D bez zmiany rozmiaru interfejsu. Ustaw niższą wartość dla lepszej wydajności.";
+"Rome.InGame.UI_VIDEO_VSYNC" = "Interwał synchronizacji pionowej";
+"Rome.InGame.UI_VIDEO_VSYNC_INFO" = "Synchronizacja pionowa ogranicza rozrywanie obrazu kosztem niewielkiego opóźnienia sterowania.\n\n1 (wł.) – ogranicza liczbę klatek do częstotliwości odświeżania monitora.\n\n2 (wł.) – ogranicza liczbę klatek do połowy częstotliwości odświeżania monitora.";
+"Rome.InGame.LNX.UI_VIDEO_VSYNC_INFO" = "Synchronizacja pionowa ogranicza rozrywanie obrazu kosztem niewielkiego opóźnienia sterowania.\n\n1 (wł.) – ogranicza liczbę klatek do częstotliwości odświeżania monitora.";
+"Rome.InGame.UI_VIDEO_FRAME_LIMITER" = "Limit klatek";
+"Rome.InGame.UI_VIDEO_FRAME_LIMITER_CHECK_INFO" = "Włącz limit liczby klatek na sekundę.";
+"Rome.InGame.UI_VIDEO_FRAME_LIMITER_SLIDER_INFO" = "Ustaw limit liczby klatek na sekundę.";
+"Rome.InGame.UI_VIDEO_LOCK_CURSOR" = "Zablokuj kursor w oknie";
+"Rome.InGame.UI_VIDEO_LOCK_CURSOR_INFO" = "Zatrzymaj kursor myszy w oknie gry.";
+"Rome.InGame.UI_VIDEO_QUALITY" = "Jakość grafiki";
+"Rome.InGame.UI_VIDEO_QUALITY_INFO" = "Ustaw poziom jakości grafiki.";
+"Rome.InGame.UI_VIDEO_DETAIL_CUSTOM" = "Niestandardowa";
+"Rome.InGame.UI_VIDEO_DETAIL_OFF" = "Wył.";
+"Rome.InGame.UI_VIDEO_GAMMA_INFO" = "Dostosuj kontrast i jasność do monitora.";
+"Rome.InGame.UI_VIDEO_BRIGHTNESS" = "Jasność";
+"Rome.InGame.UI_VIDEO_BRIGHTNESS_INFO" = "Dostosuj ekspozycję obrazu.";
+"Rome.InGame.UI_VIDEO_UI_SCALE" = "Rozmiar interfejsu";
+"Rome.InGame.UI_VIDEO_UI_SCALE_INFO" = "Dostosuj rozmiar interfejsu użytkownika.";
+"Rome.InGame.UI_VIDEO_ADVANCED_SETTINGS" = "Ustawienia zaawansowane";
+"Rome.InGame.UI_VIDEO_ADVANCED_SETTINGS_INFO" = "Otwórz zaawansowane ustawienia grafiki.";
+"Rome.Override.WIN.UI_VIDEO_DETAIL_HIGH" = "Wysoka";
+"Rome.Override.LNX.UI_VIDEO_DETAIL_HIGH" = "Wysoka";
+"Rome.Override.OSX.UI_VIDEO_DETAIL_HIGH" = "Wysoka";
+"Rome.Override.UI_VIDEO_DETAIL_HIGH" = "WYSOKA";
+"Rome.Override.WIN.UI_VIDEO_DETAIL_LOW" = "Niska";
+"Rome.Override.LNX.UI_VIDEO_DETAIL_LOW" = "Niska";
+"Rome.Override.OSX.UI_VIDEO_DETAIL_LOW" = "Niska";
+"Rome.Override.UI_VIDEO_DETAIL_LOW" = "NISKA";
+"Rome.Override.WIN.UI_VIDEO_DETAIL_MEDIUM" = "Średnia";
+"Rome.Override.LNX.UI_VIDEO_DETAIL_MEDIUM" = "Średnia";
+"Rome.Override.OSX.UI_VIDEO_DETAIL_MEDIUM" = "Średnia";
+"Rome.Override.UI_VIDEO_DETAIL_MEDIUM" = "ŚREDNIA";
+"Rome.Override.WIN.UI_VIDEO_INFO_RESOLUTION" = "Ustaw rozdzielczość. Aby poprawić wydajność, zmniejsz skalowanie rozdzielczości suwakiem poniżej.";
+"Rome.Override.LNX.UI_VIDEO_INFO_RESOLUTION" = "Ustaw rozdzielczość. Aby poprawić wydajność, zmniejsz skalowanie rozdzielczości suwakiem poniżej.";
+"Rome.Override.OSX.UI_VIDEO_INFO_RESOLUTION" = "Ustaw rozdzielczość. Aby poprawić wydajność, zmniejsz skalowanie rozdzielczości suwakiem poniżej.";
+"Rome.Override.UI_VIDEO_INFO_RESOLUTION" = "ZMIEŃ ROZDZIELCZOŚĆ MAPY KAMPANII";
+"Rome.Override.UI_VIDEO_RESOLUTION" = "Rozdzielczość";
+
+/* Ustawienia grafiki: kolorystyka */
+"Rome.InGame.UI_VIDEO_UNIT_COLOUR_SCHEME" = "Kolorystyka jednostek";
+"Rome.InGame.UI_VIDEO_COLOUR_SCHEME_MODERN" = "Realistyczna";
+"Rome.InGame.UI_VIDEO_COLOUR_SCHEME_ORIGINAL" = "Żywa (oryginalna)";
+"Rome.InGame.UI_VIDEO_UNIT_COLOUR_SCHEME_DROPDOWN_INFO" = "Wybierz żywą (oryginalną) lub realistyczną kolorystykę jednostek.";
+"Rome.InGame.UI_VIDEO_CAMPAIGN_VIBRANCY" = "Nasycenie kolorów mapy kampanii";
+"Rome.InGame.UI_VIDEO_CAMPAIGN_VIBRANCY_SHORT" = "Nasycenie kolorów kampanii";
+"Rome.InGame.UI_VIDEO_CAMPAIGN_VIBRANCY_INFO" = "Przesuń suwak w prawo, aby kolory mapy kampanii były żywsze, lub w lewo, aby były bardziej realistyczne.";
+"Rome.InGame.DOES_NOT_AFFECT_MENUS" = "To ustawienie nie wpływa na menu pauzy ani menu główne.";
+"Rome.InGame.DOES_NOT_AFFECT_MAIN_MENU" = "To ustawienie nie wpływa na menu główne.";
