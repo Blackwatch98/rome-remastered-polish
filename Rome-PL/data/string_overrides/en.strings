@@ -5,3 +5,38 @@
 "Rome.InGame.UI_FERAL_LP_OPTIONS" = "Ustawienia";
 "Rome.InGame.UI_FERAL_LP_SUPPORT" = "Pomoc i wsparcie";
 "Rome.InGame.UI_FERAL_LP_QUIT" = "Wyjdź do pulpitu";
+
+"Rome.InGame.UI_FERAL_LP_OPTIONS_AUDIO" = "Ustawienia dźwięku";
+"Rome.InGame.UI_FERAL_LP_OPTIONS_CONTROL" = "Ustawienia sterowania";
+"Rome.InGame.UI_FERAL_LP_OPTIONS_CREDITS" = "Zobacz listę twórców";
+"Rome.InGame.UI_FERAL_LP_OPTIONS_GAMEPLAY" = "Ustawienia rozgrywki";
+"Rome.InGame.UI_FERAL_LP_OPTIONS_GRAPHICS" = "Ustawienia grafiki";
+"Rome.InGame.UI_FERAL_LP_OPTIONS_HELPSHEET" = "Pokaż panel pomocy";
+
+"Rome.InGame.UI_FERAL_LP_CAMPAIGN" = "Kampania imperialna";
+"Rome.InGame.UI_FERAL_LP_BATTLE_QUICK" = "Szybka bitwa";
+"Rome.InGame.UI_FERAL_LP_BATTLE_CUSTOM" = "Bitwa niestandardowa";
+"Rome.InGame.UI_FERAL_LP_BATTLE_HISTORICAL" = "Bitwa historyczna";
+"Rome.InGame.UI_FERAL_LP_TOURNAMENT" = "Turniej bitewny";
+
+"Rome.InGame.UI_FERAL_LP_BATTLE_MULTIPLAYER" = "Bitwa wieloosobowa";
+"Rome.InGame.UI_FERAL_LP_BATTLE_ONLINE" = "Gra przez Internet";
+"Rome.InGame.UI_FERAL_LP_BATTLE_LAN" = "Gra w sieci lokalnej";
+
+"Rome.InGame.UI_FERAL_LP_LOAD_CAMPAIGN" = "Wczytaj kampanię";
+"Rome.InGame.UI_FERAL_LP_LOAD_BATTLE" = "Wczytaj bitwę";
+"Rome.InGame.UI_FERAL_LP_LOAD_REPLAY" = "Wczytaj powtórkę";
+
+"Rome.InGame.UI_FERAL_LP_SUPPORT_FAQ" = "Zobacz najczęstsze pytania";
+"Rome.InGame.UI_FERAL_LP_SUPPORT_FAQ_TITLE" = "NAJCZĘSTSZE PYTANIA";
+"Rome.InGame.UI_FERAL_LP_SUPPORT_FAQ_CONFIRM_TOOLTIP" = "Otwórz najczęstsze pytania (otwiera przeglądarkę)";
+"Rome.InGame.UI_FERAL_LP_SUPPORT_FAQ_CANCEL_TOOLTIP" = "Anuluj";
+"Rome.InGame.UI_FERAL_LP_SUPPORT_FOLLOW" = "Obserwuj nas";
+"Rome.InGame.UI_FERAL_LP_SUPPORT_FOLLOW_TITLE" = "OBSERWUJ NAS";
+"Rome.InGame.UI_FERAL_LP_SUPPORT_LICENCES" = "Licencje open source";
+"Rome.InGame.UI_FERAL_LP_SUPPORT_LICENCES_TITLE" = "LICENCJE OPEN SOURCE";
+"Rome.InGame.UI_FERAL_LP_SUPPORT_MAIL" = "Pomoc techniczna";
+"Rome.InGame.UI_FERAL_LP_SUPPORT_MAIL_TITLE" = "POMOC TECHNICZNA";
+"Rome.InGame.UI_FERAL_LP_SUPPORT_MANUAL" = "Wiki";
+"Rome.InGame.UI_FERAL_LP_SUPPORT_PRIVACY" = "Polityka prywatności";
+"Rome.InGame.UI_FERAL_LP_SUPPORT_PRIVACY_TITLE" = "POLITYKA PRYWATNOŚCI";

@@ -18,13 +18,13 @@ Planowane tłumaczenie obejmuje:
 
 **W przygotowaniu – etap początkowy.**
 
-W repozytorium jest wersja testowa dla podstawowego Rome. Tłumaczy przyciski na pierwszym ekranie menu głównego.
+W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie zidentyfikowanych pozycji menu głównego i jego podmenu.
 
 ## Postęp tłumaczenia
 
 | Gra lub dodatek | Przetłumaczone | Sprawdzone ręcznie | Status |
 | --- | ---: | ---: | --- |
-| Rome (gra podstawowa) | 7/4611 (0,15%) | 7/4611 (0,15%) | W trakcie, suma obszarów z policzonym zakresem |
+| Rome (gra podstawowa) | 37/4611 (0,80%) | 37/4611 (0,80%) | W trakcie, suma obszarów z policzonym zakresem |
 | Barbarian Invasion | — | — | W kolejce |
 | Alexander | — | — | W kolejce |
 
@@ -32,7 +32,7 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Tłumaczy przyciski na
 
 | Obszar w podstawowym Rome | Przetłumaczone | Sprawdzone ręcznie | Zakres |
 | --- | ---: | ---: | --- |
-| Menu główne i jego podmenu | 7/37 (18,9%) | 7/37 (18,9%) | Klucze `Rome.InGame.UI_FERAL_LP_*` w `Localizable_Game.strings`, poza etykietami kampanii BI i Alexander |
+| Menu główne i podmenu: nawigacja | 37/37 (100%) | 37/37 (100%) | Klucze `Rome.InGame.UI_FERAL_LP_*` w `Localizable_Game.strings`, poza etykietami kampanii BI i Alexander |
 | Nazwy jednostek | 0/265 (0%) | 0/265 (0%) | Klucze nazw z `export_units.txt` |
 | Opisy jednostek | 0/530 (0%) | 0/530 (0%) | Klucze z końcówką `_descr` lub `_descr_short` z `export_units.txt` |
 | Budynki i ulepszenia | 0/3164 (0%) | 0/3164 (0%) | `export_buildings.txt` |
@@ -43,9 +43,9 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Tłumaczy przyciski na
 | Interfejs kampanii, bitew i ustawień | — | — | Pozostałe klucze Feral oraz m.in. `expanded*.txt`, `strat.txt`, `battle.txt` i `tooltips.txt` |
 | Samouczki, porady i napisy | — | — | `export_prologue*.txt`, `export_advice*.txt` i pliki `*subtitles.txt` |
 
-Liczymy unikalne klucze w ustalonym zakresie. Obie kolumny dzielą liczbę gotowych lub ręcznie sprawdzonych wpisów przez liczbę wszystkich wpisów w tym zakresie. Po zmianie tekstu lub jego wyświetlania sprawdź dany wpis ponownie, zanim zaliczysz go do drugiej kolumny. Kreska oznacza obszar, dla którego trzeba jeszcze ustalić komplet kluczy.
+Liczymy unikalne klucze w ustalonym zakresie. Procenty liczymy względem wszystkich wpisów w danym zakresie. Przy niepełnym zakresie podajemy liczby bez procentu i poza sumą zbiorczą. Po zmianie tekstu lub jego wyświetlania sprawdź dany wpis ponownie, zanim zaliczysz go do drugiej kolumny. Kreska oznacza obszar, dla którego trzeba jeszcze ustalić komplet kluczy.
 
-Liczby pochodzą z angielskich plików podstawowego Rome. Menu liczymy na razie według wskazanej grupy kluczy. Porównanie z ekranami gry może ujawnić kolejne napisy. Zakres Barbarian Invasion i Alexander ustalimy osobno na podstawie plików każdego dodatku, gdy rozpoczniemy prace nad jego tłumaczeniem.
+Liczby pochodzą z angielskich plików podstawowego Rome. Klucze nawigacji menu policzyliśmy osobno. Przy ekranach szczegółowych i oknach dialogowych nadal ustalamy pełną listę wpisów. Zakres Barbarian Invasion i Alexander ustalimy osobno na podstawie plików każdego dodatku, gdy rozpoczniemy prace nad jego tłumaczeniem.
 
 ## 📦 Instalacja
 
