@@ -18,13 +18,13 @@ Planowane tłumaczenie obejmuje:
 
 **W przygotowaniu – etap początkowy.**
 
-W repozytorium jest wersja testowa dla podstawowego Rome. Zmienia jeden napis w menu głównym.
+W repozytorium jest wersja testowa dla podstawowego Rome. Tłumaczy przyciski na pierwszym ekranie menu głównego.
 
 ## Postęp tłumaczenia
 
 | Gra lub dodatek | Przetłumaczone | Sprawdzone ręcznie | Status |
 | --- | ---: | ---: | --- |
-| Rome (gra podstawowa) | 1/4611 (0,02%) | 1/4611 (0,02%) | W trakcie, suma obszarów z policzonym zakresem |
+| Rome (gra podstawowa) | 7/4611 (0,15%) | 7/4611 (0,15%) | W trakcie, suma obszarów z policzonym zakresem |
 | Barbarian Invasion | — | — | W kolejce |
 | Alexander | — | — | W kolejce |
 
@@ -32,7 +32,7 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zmienia jeden napis w 
 
 | Obszar w podstawowym Rome | Przetłumaczone | Sprawdzone ręcznie | Zakres |
 | --- | ---: | ---: | --- |
-| Menu główne i jego podmenu | 1/37 (2,7%) | 1/37 (2,7%) | Klucze `Rome.InGame.UI_FERAL_LP_*` w `Localizable_Game.strings`, poza etykietami kampanii BI i Alexander |
+| Menu główne i jego podmenu | 7/37 (18,9%) | 7/37 (18,9%) | Klucze `Rome.InGame.UI_FERAL_LP_*` w `Localizable_Game.strings`, poza etykietami kampanii BI i Alexander |
 | Nazwy jednostek | 0/265 (0%) | 0/265 (0%) | Klucze nazw z `export_units.txt` |
 | Opisy jednostek | 0/530 (0%) | 0/530 (0%) | Klucze z końcówką `_descr` lub `_descr_short` z `export_units.txt` |
 | Budynki i ulepszenia | 0/3164 (0%) | 0/3164 (0%) | `export_buildings.txt` |
