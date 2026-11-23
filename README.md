@@ -18,11 +18,15 @@ Planowane tłumaczenie obejmuje:
 
 **W przygotowaniu – etap początkowy.**
 
-Spolszczenie nie jest jeszcze dostępne do pobrania.
+W repozytorium jest wersja testowa dla podstawowego Rome. Zmienia jeden napis w menu głównym.
 
 ## 📦 Instalacja
 
-Instrukcja instalacji zostanie udostępniona wraz z pierwszą działającą wersją spolszczenia.
+### Test lokalny na Windows
+
+1. Skopiuj cały folder [`Rome-PL`](Rome-PL) do `%LOCALAPPDATA%\Feral Interactive\Total War ROME REMASTERED\Mods\My Mods\`. Plik `modinfo.json` powinien być bezpośrednio w folderze `My Mods\Rome-PL`.
+2. Uruchom grę przez Steam. W oknie startowym otwórz **Mod Manager**, wybierz **ROME REMASTERED - Spolszczenie** i włącz mod. Do wygenerowania manifestu (`filelist.json`) użyj przycisku **Regenerate Manifest**. Powtórz ten krok po zmianie plików moda.
+3. Uruchom podstawowe **Rome** z angielskim językiem gry. W menu głównym przycisk **Load Game** powinien wyświetlać **Wczytaj grę**.
 
 ## 🤝 Współpraca
 
