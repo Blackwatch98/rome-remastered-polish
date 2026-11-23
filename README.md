@@ -22,10 +22,13 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zmienia jeden napis w 
 
 ## Postęp tłumaczenia
 
-**Łączny postęp w obszarach z policzonym zakresem**
+| Gra lub dodatek | Przetłumaczone | Sprawdzone ręcznie | Status |
+| --- | ---: | ---: | --- |
+| Rome (gra podstawowa) | 1/4611 (0,02%) | 1/4611 (0,02%) | W trakcie, suma obszarów z policzonym zakresem |
+| Barbarian Invasion | — | — | W kolejce |
+| Alexander | — | — | W kolejce |
 
-- Przetłumaczone **1/4611 (0,02%)**.
-- Sprawdzone ręcznie **1/4611 (0,02%)**.
+### Rome (gra podstawowa)
 
 | Obszar w podstawowym Rome | Przetłumaczone | Sprawdzone ręcznie | Zakres |
 | --- | ---: | ---: | --- |
@@ -42,7 +45,7 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zmienia jeden napis w 
 
 Liczymy unikalne klucze w ustalonym zakresie. Obie kolumny dzielą liczbę gotowych lub ręcznie sprawdzonych wpisów przez liczbę wszystkich wpisów w tym zakresie. Po zmianie tekstu lub jego wyświetlania sprawdź dany wpis ponownie, zanim zaliczysz go do drugiej kolumny. Kreska oznacza obszar, dla którego trzeba jeszcze ustalić komplet kluczy.
 
-Liczby pochodzą z angielskich plików podstawowego Rome. Menu liczymy na razie według wskazanej grupy kluczy. Porównanie z ekranami gry może ujawnić kolejne napisy. Gdy dojdziemy do Barbarian Invasion i Alexander, postęp policzymy osobno dla każdego dodatku na podstawie jego własnych plików.
+Liczby pochodzą z angielskich plików podstawowego Rome. Menu liczymy na razie według wskazanej grupy kluczy. Porównanie z ekranami gry może ujawnić kolejne napisy. Zakres Barbarian Invasion i Alexander ustalimy osobno na podstawie plików każdego dodatku, gdy rozpoczniemy prace nad jego tłumaczeniem.
 
 ## 📦 Instalacja
 
