@@ -34,7 +34,8 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 | --- | ---: | ---: | --- |
 | Menu główne i podmenu: nawigacja | 37/37 (100%) | 37/37 (100%) | Klucze `Rome.InGame.UI_FERAL_LP_*` w `Localizable_Game.strings`, poza etykietami kampanii BI i Alexander |
 | Menu główne i podmenu: ekrany szczegółowe i okna dialogowe | 6 | 0 | Zidentyfikowane wpisy ustawień kampanii. Pełny zakres w ustalaniu. |
-| Ustawienia grafiki | 53 | 0 | Zidentyfikowane wpisy pierwszego ekranu dostępnego z menu głównego. Pełny zakres w ustalaniu. |
+| Ustawienia grafiki (podstawowe) | 53 | 0 | Zidentyfikowane wpisy pierwszego ekranu dostępnego z menu głównego. Pełny zakres w ustalaniu. |
+| Ustawienia grafiki (zaawansowane) | 138 | 0 | Zidentyfikowane etykiety, opcje i podpowiedzi, w tym warianty platformowe. Pełny zakres w ustalaniu. |
 | Nazwy jednostek | 0/265 (0%) | 0/265 (0%) | Klucze nazw z `export_units.txt` |
 | Opisy jednostek | 0/530 (0%) | 0/530 (0%) | Klucze z końcówką `_descr` lub `_descr_short` z `export_units.txt` |
 | Budynki i ulepszenia | 0/3164 (0%) | 0/3164 (0%) | `export_buildings.txt` |

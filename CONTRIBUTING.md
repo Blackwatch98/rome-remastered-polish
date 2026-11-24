@@ -33,6 +33,7 @@ Przed utworzeniem nowego zgłoszenia sprawdź, czy podobny problem nie został j
 Podczas pracy nad spolszczeniem proszę o:
 
 - Stosowanie poprawnej polszczyzny.
+- Kończenie pełnych zdań oznajmujących i poleceń kropką. Krótkie etykiety, nagłówki i opisy rzeczownikowe mogą pozostać bez kropki.
 - Zachowywanie spójności terminologii.
 - Uwzględnianie kontekstu historycznego gry.
 - Unikanie dosłownego tłumaczenia, jeśli prowadzi ono do nienaturalnych sformułowań.
