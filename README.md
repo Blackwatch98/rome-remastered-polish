@@ -22,23 +22,23 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 
 ## Postęp tłumaczenia
 
-| Gra lub dodatek | Przetłumaczone | Sprawdzone ręcznie | Status |
+| Gra lub dodatek | Przetłumaczone | Sprawdzone w grze | Status |
 | --- | ---: | ---: | --- |
-| Rome (gra podstawowa) | 227/4801 (4,73%) | 37/4801 (0,77%) | W trakcie, suma obszarów z policzonym zakresem |
+| Rome (gra podstawowa) | 227/4801 (4,73%) | 227/4801 (4,73%) | W trakcie, suma obszarów z policzonym zakresem |
 | Barbarian Invasion | — | — | W kolejce |
 | Alexander | — | — | W kolejce |
 
 ### Rome (gra podstawowa)
 
-| Obszar w podstawowym Rome | Przetłumaczone | Sprawdzone ręcznie | Zakres |
+| Obszar w podstawowym Rome | Przetłumaczone | Sprawdzone w grze | Zakres |
 | --- | ---: | ---: | --- |
 | Menu główne i podmenu: nawigacja | 37/37 (100%) | 37/37 (100%) | Klucze `Rome.InGame.UI_FERAL_LP_*` w `Localizable_Game.strings`, poza etykietami kampanii BI i Alexander |
-| Menu główne i podmenu: ekrany szczegółowe i okna dialogowe | 6 | 0 | Zidentyfikowane wpisy ustawień kampanii. Pełny zakres w ustalaniu. |
-| Ustawienia grafiki (podstawowe) | 53 | 0 | Zidentyfikowane wpisy pierwszego ekranu dostępnego z menu głównego. Pełny zakres w ustalaniu. |
-| Ustawienia grafiki (zaawansowane) | 138 | 0 | Zidentyfikowane etykiety, opcje i podpowiedzi, w tym warianty platformowe. Pełny zakres w ustalaniu. |
-| Ustawienia dźwięku | 74 | 0 | Zidentyfikowane etykiety, opcje i podpowiedzi, w tym warianty platformowe. Pełny zakres w ustalaniu. |
-| Ustawienia sterowania | 146 | 0 | Interfejs przypisywania skrótów oraz etykiety akcji z `Localizable_Game.strings`. Część etykiet z `data/text` jest w lokalnej paczce testowej. |
-| Nazwy akcji i kategorii skrótów | 190/190 (100%) | 0/190 (0%) | `shortcut.txt`, 203 wpisy z uwzględnieniem powtórzonych kluczy. |
+| Menu główne i podmenu: ekrany szczegółowe i okna dialogowe | 6 | 6 | Zidentyfikowane wpisy ustawień kampanii. Pełny zakres w ustalaniu. |
+| Ustawienia grafiki (podstawowe) | 53 | 53 | Zidentyfikowane wpisy pierwszego ekranu dostępnego z menu głównego. Pełny zakres w ustalaniu. |
+| Ustawienia grafiki (zaawansowane) | 138 | 138 | Zidentyfikowane etykiety, opcje i podpowiedzi, w tym warianty platformowe. Pełny zakres w ustalaniu. |
+| Ustawienia dźwięku | 74 | 74 | Zidentyfikowane etykiety, opcje i podpowiedzi, w tym warianty platformowe. Pełny zakres w ustalaniu. |
+| Ustawienia sterowania | 146 | 146 | Interfejs przypisywania skrótów oraz etykiety akcji z `Localizable_Game.strings`. Część etykiet z `data/text` jest w lokalnej paczce testowej. |
+| Nazwy akcji i kategorii skrótów | 190/190 (100%) | 190/190 (100%) | `shortcut.txt`, 203 wpisy z uwzględnieniem powtórzonych kluczy. |
 | Nazwy jednostek | 0/265 (0%) | 0/265 (0%) | Klucze nazw z `export_units.txt` |
 | Opisy jednostek | 0/530 (0%) | 0/530 (0%) | Klucze z końcówką `_descr` lub `_descr_short` z `export_units.txt` |
 | Budynki i ulepszenia | 0/3164 (0%) | 0/3164 (0%) | `export_buildings.txt` |
