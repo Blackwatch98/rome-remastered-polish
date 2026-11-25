@@ -40,6 +40,7 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 | Ustawienia sterowania | 146 | 146 | Interfejs przypisywania skrótów oraz etykiety akcji z `Localizable_Game.strings`. Część etykiet z `data/text` jest w lokalnej paczce testowej. |
 | Ustawienia rozgrywki | 105 | 0 | Zidentyfikowane etykiety, opcje i podpowiedzi, w tym warianty platformowe. Pełny zakres w ustalaniu. |
 | Twórcy | 5 | 0 | Nagłówek, etykieta i podpowiedzi menu oraz wzmianka na panelu pomocy. |
+| Wczytywanie gry | 57 | 0 | Okna wczytywania kampanii, bitew i powtórek, sortowanie oraz komunikaty o zapisach. Pełny zakres w ustalaniu. |
 | Nazwy akcji i kategorii skrótów | 190/190 (100%) | 190/190 (100%) | `shortcut.txt`, 203 wpisy z uwzględnieniem powtórzonych kluczy. |
 | Nazwy jednostek | 0/265 (0%) | 0/265 (0%) | Klucze nazw z `export_units.txt` |
 | Opisy jednostek | 0/530 (0%) | 0/530 (0%) | Klucze z końcówką `_descr` lub `_descr_short` z `export_units.txt` |
