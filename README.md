@@ -24,7 +24,7 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 
 | Gra lub dodatek | Przetłumaczone | Sprawdzone w grze | Status |
 | --- | ---: | ---: | --- |
-| Rome (gra podstawowa) | 512/4821 (10,62%) | 459/4821 (9,52%) | Tylko obszary z ustalonym pełnym zakresem |
+| Rome (gra podstawowa) | 512/4821 (10,62%) | 512/4821 (10,62%) | Tylko obszary z ustalonym pełnym zakresem |
 | Barbarian Invasion | — | — | W kolejce |
 | Alexander | — | — | W kolejce |
 
@@ -55,7 +55,7 @@ Pliki źródłowe moda zawierają razem **2088 unikalnych kluczy liczonych w obr
 | Krótkie opisy frakcji i ich armii | 47 | 47 | 26 wpisów w `en.strings` i 21 w `expanded_bi.txt`. |
 | Nazwy frakcji | 21 | 21 | Nazwy podstawowego Rome w `expanded_bi.txt`, używane m.in. nad komunikatem blokady. |
 | Nazwy akcji i kategorii skrótów | 190/190 (100%) | 190/190 (100%) | `shortcut.txt`, 203 wpisy z uwzględnieniem powtórzonych kluczy. |
-| Nazwy jednostek | 265/265 (100%) | 212/265 (80,00%) | Wszystkie klucze nazw jednostek i okrętów z `export_units.txt` |
+| Nazwy jednostek | 265/265 (100%) | 265/265 (100%) | Wszystkie klucze nazw jednostek i okrętów z `export_units.txt` |
 | Opisy jednostek | 0/530 (0%) | 0/530 (0%) | Klucze z końcówką `_descr` lub `_descr_short` z `export_units.txt` |
 | Budynki i ulepszenia | 0/3164 (0%) | 0/3164 (0%) | `export_buildings.txt` |
 | Dyplomacja | 0/408 (0%) | 0/408 (0%) | `diplomacy.txt` |
