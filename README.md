@@ -24,11 +24,11 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 
 | Gra lub dodatek | Przetłumaczone | Sprawdzone w grze | Status |
 | --- | ---: | ---: | --- |
-| Rome (gra podstawowa) | 1042/4821 (21,61%) | 1042/4821 (21,61%) | Tylko obszary z ustalonym pełnym zakresem |
+| Rome (gra podstawowa) | 1056/4835 (21,84%) | 1042/4835 (21,55%) | Tylko obszary z ustalonym pełnym zakresem |
 | Barbarian Invasion | — | — | W kolejce |
 | Alexander | — | — | W kolejce |
 
-Pliki źródłowe moda zawierają razem **2690 unikalnych kluczy liczonych w obrębie każdego pliku**. To 1630 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 795 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
+Pliki źródłowe moda zawierają razem **2704 unikalnych kluczy liczonych w obrębie każdego pliku**. To 1644 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 795 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
 
 ### Rome (gra podstawowa)
 
@@ -50,6 +50,7 @@ Pliki źródłowe moda zawierają razem **2690 unikalnych kluczy liczonych w obr
 | Bitwy historyczne | 34 | 34 | Menu wyboru bitwy i armii, podpowiedzi oraz zidentyfikowane opisy bitew podstawowego Rome. Pełny zakres w ustalaniu. |
 | Tytuły i opisy bitew historycznych | 20/20 (100%) | 20/20 (100%) | Tytuł i opis każdego z 10 scenariuszy jednoosobowych podstawowego Rome w `Rome-PL/data/text/battle_descriptions.txt`. |
 | Karty jednostek w bitwach | 102 | 102 | Statystyki, podpowiedzi, cechy i zdolności jednostek. |
+| Rodzaje jednostek | 14/14 (100%) | 0/14 (0%) | Polskie nadpisania `Rome.Override.BMT_UNIT_*` w `en.strings` dla kluczy z `battle.txt`. |
 | Cele i daty bitew | 20 | 20 | Cele, wymagania liczebności i formaty lat w menu oraz na ekranie bitwy. |
 | Kampania imperialna | 155 | 155 | Wybór frakcji, ustawienia kampanii, warunki zwycięstwa i opisy modyfikatorów, w tym 38 tytułów i opisów 19 frakcji. Pełny zakres w ustalaniu. |
 | Krótkie opisy frakcji i ich armii | 47 | 47 | 26 wpisów w `en.strings` i 21 w `expanded_bi.txt`. |
@@ -75,7 +76,7 @@ Celem jest polski tekst widoczny dla gracza w podstawowym Rome na Steam, od okna
 
 #### Inwentaryzacja głównych tabel tekstu
 
-Punkt odniesienia to angielska instalacja Steam, kompilacja `8081527`. W głównym katalogu `data/text` znaleźliśmy **23 896 kluczy liczonych osobno w każdym z 43 plików**. Po połączeniu powtarzających się kluczy zostaje **23 294**. Z grup `Rome.InGame`, `Rome.Override`, `Rome.Annotations` i `Rome.LoadingTips` w `Localizable_Game.strings` pochodzi kolejnych **7582** kluczy po odjęciu jawnie oznaczonych wpisów dodatków i wariantów konsolowych lub mobilnych. **2117** identyfikatorów występuje w obu źródłach, co daje **28 759** identyfikatorów w inwentaryzacji. W plikach moda znajdują się odpowiedniki **2556 z nich (8,89%)**. To pokrycie zebranych kluczy. Ustalenie, które wpisy są używane w grze i które wymagają przekładu, może zmienić mianownik.
+Punkt odniesienia to angielska instalacja Steam, kompilacja `8081527`. W głównym katalogu `data/text` znaleźliśmy **23 896 kluczy liczonych osobno w każdym z 43 plików**. Po połączeniu powtarzających się kluczy zostaje **23 294**. Z grup `Rome.InGame`, `Rome.Override`, `Rome.Annotations` i `Rome.LoadingTips` w `Localizable_Game.strings` pochodzi kolejnych **7582** kluczy po odjęciu jawnie oznaczonych wpisów dodatków i wariantów konsolowych lub mobilnych. **2117** identyfikatorów występuje w obu źródłach, co daje **28 759** identyfikatorów w inwentaryzacji. W plikach moda znajdują się odpowiedniki **2570 z nich (8,94%)**. To pokrycie zebranych kluczy. Ustalenie, które wpisy są używane w grze i które wymagają przekładu, może zmienić mianownik.
 
 | Obszar | Klucze w plikach `data/text` | Tabele źródłowe |
 | --- | ---: | --- |

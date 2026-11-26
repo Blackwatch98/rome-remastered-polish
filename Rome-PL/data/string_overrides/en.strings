@@ -1698,3 +1698,19 @@
 "Rome.Override.scutarii_descr" = "Porywczy\nŚwietnie się ukrywa w lasach\n\nScutarii to dobrze wyposażona lekka piechota, która nosi miecze, tarcze i ciężkie oszczepy. Rzymianie nazwali ich od charakterystycznych dużych owalnych tarcz, zwanych po łacinie scuta. Najpierw obrzucają wroga ciężkimi oszczepami, potem dobywają mieczy i ruszają do walki wręcz. Wielowiekowe waśnie między plemionami górskimi zahartowały ich mieszkańców, więc nie brakuje im twardych i przebiegłych wojowników, którzy potrafią urządzać zasadzki.\n\nKształt ostrzy tych żołnierzy wpłynął na późniejszy rzymski gladius. Rzymianie przyjęli ten wzór, gdy w pierwszej wojnie punickiej zetknęli się z dużymi oddziałami scutarii.";
 "Rome.Override.naval_large_boats_descr_short" = "Duże łodzie mają załogi dość liczne, by podjąć abordaż. Ustępują jednak okrętom ludów o bardziej rozwiniętym szkutnictwie.";
 "Rome.Override.naval_pirates_descr" = "Ulubionym okrętem piratów jest birema, szybki i groźny łowca powolnych, bezbronnych statków handlowych. W razie potrzeby potrafi umknąć większym okrętom wojennym. Łączy siłę i zwrotność, a do jej obsługi wystarczy stosunkowo mała załoga.\n\nWzdłuż wybrzeży Morza Śródziemnego piraci wypływają z każdej odludnej zatoki, bezprawnego portu i niezależnego miasta, a nawet z kilku miast rzekomo przestrzegających prawa. Są jak muchy. Zjawiają się wszędzie, gdzie jest coś do wzięcia, i ustępują tylko na chwilę, gdy rozpędzi ich imperium. Gdy zginie jedna mucha, na jej miejsce zlatują się następne.\n\nPiraci zagrażają handlowi, a czasem zbierają tak wielkie siły, że mogą zagrozić nawet największym potęgom morskim.";
+
+/* Rodzaje jednostek */
+"Rome.Override.BMT_UNIT_HEAVY_INFANTRY" = "Ciężka piechota";
+"Rome.Override.BMT_UNIT_LIGHT_INFANTRY" = "Lekka piechota";
+"Rome.Override.BMT_UNIT_SKIRMISHER_INFANTRY" = "Harcownicy";
+"Rome.Override.BMT_UNIT_SPEARMEN" = "Włócznicy";
+"Rome.Override.BMT_UNIT_MISSILE" = "Oddziały strzeleckie";
+"Rome.Override.BMT_UNIT_HEAVY_CAVALRY" = "Ciężka jazda";
+"Rome.Override.BMT_UNIT_LIGHT_CAVALRY" = "Lekka jazda";
+"Rome.Override.BMT_UNIT_SKIRMISHER_CAVALRY" = "Konni harcownicy";
+"Rome.Override.BMT_UNIT_MISSILE_CAVALRY" = "Jazda strzelecka";
+"Rome.Override.BMT_UNIT_HEAVY_SIEGE" = "Ciężka artyleria";
+"Rome.Override.BMT_UNIT_LIGHT_SIEGE" = "Lekka artyleria";
+"Rome.Override.BMT_UNIT_SIEGE" = "Artyleria";
+"Rome.Override.BMT_UNIT_HEAVY_SPECIAL" = "Ciężkie";
+"Rome.Override.BMT_UNIT_LIGHT_SPECIAL" = "Lekkie";
