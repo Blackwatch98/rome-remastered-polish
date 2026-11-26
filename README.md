@@ -24,11 +24,11 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 
 | Gra lub dodatek | Przetłumaczone | Sprawdzone w grze | Status |
 | --- | ---: | ---: | --- |
-| Rome (gra podstawowa) | 754/4821 (15,64%) | 754/4821 (15,64%) | Tylko obszary z ustalonym pełnym zakresem |
+| Rome (gra podstawowa) | 806/4821 (16,72%) | 754/4821 (15,64%) | Tylko obszary z ustalonym pełnym zakresem |
 | Barbarian Invasion | — | — | W kolejce |
 | Alexander | — | — | W kolejce |
 
-Pliki źródłowe moda zawierają razem **2330 unikalnych kluczy liczonych w obrębie każdego pliku**. To 1558 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 507 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
+Pliki źródłowe moda zawierają razem **2382 unikalnych kluczy liczonych w obrębie każdego pliku**. To 1558 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 559 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
 
 ### Rome (gra podstawowa)
 
@@ -56,7 +56,7 @@ Pliki źródłowe moda zawierają razem **2330 unikalnych kluczy liczonych w obr
 | Nazwy frakcji | 21 | 21 | Nazwy podstawowego Rome w `expanded_bi.txt`, używane m.in. nad komunikatem blokady. |
 | Nazwy akcji i kategorii skrótów | 190/190 (100%) | 190/190 (100%) | `shortcut.txt`, 203 wpisy z uwzględnieniem powtórzonych kluczy. |
 | Nazwy jednostek | 265/265 (100%) | 265/265 (100%) | Wszystkie klucze nazw jednostek i okrętów z `export_units.txt` |
-| Opisy jednostek | 242/530 (45,66%) | 242/530 (45,66%) | Komplet opisów dla kluczy `roman_*`, `barb_*` i grupy grecko-hellenistycznej, w tym cztery znaczniki braku pełnego opisu. |
+| Opisy jednostek | 294/530 (55,47%) | 242/530 (45,66%) | Komplet opisów dla kluczy `roman_*`, `barb_*` oraz grup grecko-hellenistycznej i wschodniej, w tym sześć znaczników braku pełnego opisu. |
 | Budynki i ulepszenia | 0/3164 (0%) | 0/3164 (0%) | `export_buildings.txt` |
 | Dyplomacja | 0/408 (0%) | 0/408 (0%) | `diplomacy.txt` |
 | Regiony i osady kampanii imperialnej | 0/207 (0%) | 0/207 (0%) | `imperial_campaign_regions_and_settlement_names.txt` |
@@ -75,7 +75,7 @@ Celem jest polski tekst widoczny dla gracza w podstawowym Rome na Steam, od okna
 
 #### Inwentaryzacja głównych tabel tekstu
 
-Punkt odniesienia to angielska instalacja Steam, kompilacja `8081527`. W głównym katalogu `data/text` znaleźliśmy **23 896 kluczy liczonych osobno w każdym z 43 plików**. Po połączeniu powtarzających się kluczy zostaje **23 294**. Z grup `Rome.InGame`, `Rome.Override`, `Rome.Annotations` i `Rome.LoadingTips` w `Localizable_Game.strings` pochodzi kolejnych **7582** kluczy po odjęciu jawnie oznaczonych wpisów dodatków i wariantów konsolowych lub mobilnych. **2117** identyfikatorów występuje w obu źródłach, co daje **28 759** identyfikatorów w inwentaryzacji. W plikach moda znajdują się odpowiedniki **2268 z nich (7,89%)**. To pokrycie zebranych kluczy. Ustalenie, które wpisy są używane w grze i które wymagają przekładu, może zmienić mianownik.
+Punkt odniesienia to angielska instalacja Steam, kompilacja `8081527`. W głównym katalogu `data/text` znaleźliśmy **23 896 kluczy liczonych osobno w każdym z 43 plików**. Po połączeniu powtarzających się kluczy zostaje **23 294**. Z grup `Rome.InGame`, `Rome.Override`, `Rome.Annotations` i `Rome.LoadingTips` w `Localizable_Game.strings` pochodzi kolejnych **7582** kluczy po odjęciu jawnie oznaczonych wpisów dodatków i wariantów konsolowych lub mobilnych. **2117** identyfikatorów występuje w obu źródłach, co daje **28 759** identyfikatorów w inwentaryzacji. W plikach moda znajdują się odpowiedniki **2320 z nich (8,07%)**. To pokrycie zebranych kluczy. Ustalenie, które wpisy są używane w grze i które wymagają przekładu, może zmienić mianownik.
 
 | Obszar | Klucze w plikach `data/text` | Tabele źródłowe |
 | --- | ---: | --- |
