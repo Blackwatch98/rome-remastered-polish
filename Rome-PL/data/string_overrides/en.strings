@@ -1255,6 +1255,10 @@
 "Rome.InGame.UI_FERAL_CAMPAIGN_MODIFIER_ORIG" = "Oryginalne mechaniki Rome: Total War";
 
 /* Menu Bitwy historyczne */
+"Rome.Override.LNX.UI_FACTIONS_NON_PLAYABLE" = "Niegrywalna";
+"Rome.Override.OSX.UI_FACTIONS_NON_PLAYABLE" = "Niegrywalna";
+"Rome.Override.WIN.UI_FACTIONS_NON_PLAYABLE" = "Niegrywalna";
+"Rome.Override.UI_FACTIONS_NON_PLAYABLE" = "NIEGRYWALNA";
 "Rome.InGame.UI_FERAL_HISTORICAL_NO_BATTLE_SELECTED" = "Wybierz bitwę z listy.";
 "Rome.Override.ARAUSIO_DESCR" = "Pod koniec II wieku p.n.e. Rzym poszerzał swoje granice. W tym samym czasie wędrowały też inne ludy, w tym Cymbrowie i Teutoni, plemiona z północy i zachodu. Początkowo ich wędrówki omijały ziemie rzymskie, lecz coraz dotkliwiej brakowało im miejsca do osiedlenia się. Około 110 roku p.n.e. dotarli do Galii Zaalpejskiej, gdzie starcie z Rzymem stało się nieuniknione. W 105 r. p.n.e. konsul Gnejusz Maliusz Maksymus został wysłany na północ wraz ze swoją armią, aby zająć się tym problemem, jednak nie pomógł mu w tym brak współpracy ze strony prokonsula Kwintusa Serviliusa Caepiona.\n\n";
 "Rome.Override.MONS_GRAUPIUS_DESCR" = "W 84 roku n.e. prowincja Brytania była już w znacznej mierze podbita, jednak mieszkańcy północnych gór wciąż stawiali opór Rzymianom. Namiestnik Brytanii Agrykola wyruszył na północ ze znacznymi siłami, aby przełamać opór i narzucić rzymską władzę na wyżynach. Brytowie postanowili bronić się na stokach Mons Graupius. Rzymianie zaatakowali, a bitwa przerodziła się w rzeź miejscowej ludności, jeśli wierzyć Tacytowi, jedynemu źródłu opisującemu to starcie.\n\n";
