@@ -24,11 +24,11 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 
 | Gra lub dodatek | Przetłumaczone | Sprawdzone w grze | Status |
 | --- | ---: | ---: | --- |
-| Rome (gra podstawowa) | 489/4821 (10,14%) | 459/4821 (9,52%) | Tylko obszary z ustalonym pełnym zakresem |
+| Rome (gra podstawowa) | 512/4821 (10,62%) | 459/4821 (9,52%) | Tylko obszary z ustalonym pełnym zakresem |
 | Barbarian Invasion | — | — | W kolejce |
 | Alexander | — | — | W kolejce |
 
-Pliki źródłowe moda zawierają razem **2065 unikalnych kluczy liczonych w obrębie każdego pliku**. To 1558 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 242 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
+Pliki źródłowe moda zawierają razem **2088 unikalnych kluczy liczonych w obrębie każdego pliku**. To 1558 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 265 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
 
 ### Rome (gra podstawowa)
 
@@ -55,7 +55,7 @@ Pliki źródłowe moda zawierają razem **2065 unikalnych kluczy liczonych w obr
 | Krótkie opisy frakcji i ich armii | 47 | 47 | 26 wpisów w `en.strings` i 21 w `expanded_bi.txt`. |
 | Nazwy frakcji | 21 | 21 | Nazwy podstawowego Rome w `expanded_bi.txt`, używane m.in. nad komunikatem blokady. |
 | Nazwy akcji i kategorii skrótów | 190/190 (100%) | 190/190 (100%) | `shortcut.txt`, 203 wpisy z uwzględnieniem powtórzonych kluczy. |
-| Nazwy jednostek | 242/265 (91,32%) | 212/265 (80,00%) | Grupy rzymska, barbarzyńska, grecko-hellenistyczna, wschodnia, kartagińska, egipska i najemna z `export_units.txt` |
+| Nazwy jednostek | 265/265 (100%) | 212/265 (80,00%) | Wszystkie klucze nazw jednostek i okrętów z `export_units.txt` |
 | Opisy jednostek | 0/530 (0%) | 0/530 (0%) | Klucze z końcówką `_descr` lub `_descr_short` z `export_units.txt` |
 | Budynki i ulepszenia | 0/3164 (0%) | 0/3164 (0%) | `export_buildings.txt` |
 | Dyplomacja | 0/408 (0%) | 0/408 (0%) | `diplomacy.txt` |
@@ -75,7 +75,7 @@ Celem jest polski tekst widoczny dla gracza w podstawowym Rome na Steam, od okna
 
 #### Inwentaryzacja głównych tabel tekstu
 
-Punkt odniesienia to angielska instalacja Steam, kompilacja `8081527`. W głównym katalogu `data/text` znaleźliśmy **23 896 kluczy liczonych osobno w każdym z 43 plików**. Po połączeniu powtarzających się kluczy zostaje **23 294**. Z grup `Rome.InGame`, `Rome.Override`, `Rome.Annotations` i `Rome.LoadingTips` w `Localizable_Game.strings` pochodzi kolejnych **7582** kluczy po odjęciu jawnie oznaczonych wpisów dodatków i wariantów konsolowych lub mobilnych. **2117** identyfikatorów występuje w obu źródłach, co daje **28 759** identyfikatorów w inwentaryzacji. W plikach moda znajdują się odpowiedniki **2003 z nich (6,96%)**. To pokrycie zebranych kluczy. Ustalenie, które wpisy są używane w grze i które wymagają przekładu, może zmienić mianownik.
+Punkt odniesienia to angielska instalacja Steam, kompilacja `8081527`. W głównym katalogu `data/text` znaleźliśmy **23 896 kluczy liczonych osobno w każdym z 43 plików**. Po połączeniu powtarzających się kluczy zostaje **23 294**. Z grup `Rome.InGame`, `Rome.Override`, `Rome.Annotations` i `Rome.LoadingTips` w `Localizable_Game.strings` pochodzi kolejnych **7582** kluczy po odjęciu jawnie oznaczonych wpisów dodatków i wariantów konsolowych lub mobilnych. **2117** identyfikatorów występuje w obu źródłach, co daje **28 759** identyfikatorów w inwentaryzacji. W plikach moda znajdują się odpowiedniki **2026 z nich (7,04%)**. To pokrycie zebranych kluczy. Ustalenie, które wpisy są używane w grze i które wymagają przekładu, może zmienić mianownik.
 
 | Obszar | Klucze w plikach `data/text` | Tabele źródłowe |
 | --- | ---: | --- |
