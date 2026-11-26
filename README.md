@@ -44,6 +44,7 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 | Potwierdzenie wyjścia | 11 | 2 | Potwierdzenie zakończenia gry, przyciski i opcja ponownego otwarcia okna startowego, wraz z wariantami platformowymi. |
 | Szybka bitwa | 74 | 74 | Etykiety menu, wybór frakcji, poprzednia szybka bitwa i podpowiedź rozpoczęcia bitwy. Pełny zakres w ustalaniu. |
 | Bitwa niestandardowa | 456 | 0 | Konfiguracja warunków bitwy, drużyn i armii oraz zapis ustawień. Pełny zakres w ustalaniu. |
+| Lokacje bitew niestandardowych | 51 | 0 | 38 nazw w menu i 13 tytułów lokacji w `en.strings`. Tytuły są także w źródłowym `battle_descriptions.txt`. |
 | Bitwy historyczne | 34 | 0 | Menu wyboru bitwy i armii, podpowiedzi oraz zidentyfikowane opisy bitew podstawowego Rome. Pełny zakres w ustalaniu. |
 | Tytuły i opisy bitew historycznych | 20/20 (100%) | 0/20 (0%) | Tytuł i opis każdego z 10 scenariuszy jednoosobowych podstawowego Rome w `Rome-PL/data/text/battle_descriptions.txt`. |
 | Cele i daty bitew | 20 | 0 | Cele, wymagania liczebności i formaty lat w menu oraz na ekranie bitwy. |

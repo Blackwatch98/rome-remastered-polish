@@ -1006,7 +1006,6 @@
 "Rome.Override.OSX.UI_CUSTOM_SEASON_TOOLTIP" = "Wybierz porę roku.";
 "Rome.Override.WIN.UI_CUSTOM_SEASON_TOOLTIP" = "Wybierz porę roku.";
 "Rome.Override.UI_CUSTOM_SEASON_TOOLTIP" = "WYBIERZ PORĘ ROKU.";
-"Rome.Override.UI_LOCATION_ANCRYA" = "Ancyra";
 "Rome.Override.UI_CUSTOM_BATTLE_TERRAIN_TITLE" = "WARUNKI BITWY";
 "Rome.Override.UI_CUSTOM_BATTLE_SEASON" = "PORA ROKU";
 "Rome.Override.UI_CUSTOM_BATTLE_ARCHITECTURE" = "WIELKOŚĆ OSADY";
@@ -1037,6 +1036,59 @@
 "Rome.Override.OSX.UI_SETTLEMENT_PRESENT" = "Na tej mapie można rozegrać tylko szturm oblężniczy.";
 "Rome.Override.WIN.UI_SETTLEMENT_PRESENT" = "Na tej mapie można rozegrać tylko szturm oblężniczy.";
 "Rome.Override.UI_SETTLEMENT_PRESENT" = "Na mapie znajduje się już osada.";
+
+/* Bitwa niestandardowa: nazwy lokacji */
+"Rome.Override.UI_LOCATION_BRITISH_GRASSLAND" = "Brytyjskie łąki";
+"Rome.Override.UI_LOCATION_GALLIC_COUNTRYSIDE" = "Galijska prowincja";
+"Rome.Override.UI_LOCATION_ITALIAN_LOWLAND" = "Nizina italska";
+"Rome.Override.UI_LOCATION_SAHARA_DESERT" = "Sahara";
+"Rome.Override.UI_LOCATION_LIBYAN_PLAINS" = "Równiny libijskie";
+"Rome.Override.UI_LOCATION_ARABIAN_DUNES" = "Wydmy arabskie";
+"Rome.Override.UI_LOCATION_GERMANIC_FOREST" = "Las germański";
+"Rome.Override.UI_LOCATION_NORDIC_WOODLAND" = "Północne lasy";
+"Rome.Override.UI_LOCATION_CAPPADOCIAN_FOREST" = "Las kapadocki";
+"Rome.Override.UI_LOCATION_PRIPPET_MARSHES" = "Bagna Prypeci";
+"Rome.Override.UI_LOCATION_SIERRA_NEVADA" = "Sierra Nevada";
+"Rome.Override.UI_LOCATION_SCOTTISH_HIGHLAND" = "Góry Szkocji";
+"Rome.Override.UI_LOCATION_ARMENIAN_MOUNTAINS" = "Góry Armenii";
+"Rome.Override.UI_LOCATION_PONTIC_PEAKS" = "Szczyty Pontu";
+"Rome.Override.UI_LOCATION_ALPINE_VALLEY" = "Dolina alpejska";
+"Rome.Override.UI_LOCATION_TUSCAN_BAY" = "Zatoka toskańska";
+"Rome.Override.UI_LOCATION_GREEK_SHORE" = "Grecki brzeg";
+"Rome.Override.UI_LOCATION_AFRICAN_COAST" = "Wybrzeże Afryki";
+"Rome.Override.UI_LOCATION_MOON_RIVER" = "Rzeka Księżycowa";
+"Rome.Override.UI_LOCATION_RIVER_JORDAN" = "Jordan";
+"Rome.Override.UI_LOCATION_NILE_BRIDGE" = "Most na Nilu";
+"Rome.Override.UI_LOCATION_MACEDONIAN_RUINS" = "Ruiny macedońskie";
+"Rome.Override.UI_LOCATION_ANCRYA" = "Ancyra";
+"Rome.Override.UI_LOCATION_CILICIAN_HILLS" = "Wzgórza Cylicji";
+"Rome.Override.UI_LOCATION_SYRIAN_FLATS" = "Równiny syryjskie";
+"Rome.Override.UI_LOCATION_ARRETIUM" = "Arretium";
+"Rome.Override.UI_LOCATION_ILLYRIAN_VALLEY" = "Dolina iliryjska";
+"Rome.Override.UI_LOCATION_SOUTHWATER" = "Southwater";
+"Rome.Override.UI_LOCATION_NUMIDIAN_BASIN" = "Kotlina numidyjska";
+"Rome.Override.UI_LOCATION_SARMATION_MOUND" = "Kurhan sarmacki";
+"Rome.Override.UI_LOCATION_ROME" = "Rzym";
+"Rome.Override.UI_LOCATION_LONDINIUM" = "Londinium";
+"Rome.Override.UI_LOCATION_RHODES" = "Rodos";
+"Rome.Override.UI_LOCATION_CARTHAGE" = "Kartagina";
+"Rome.Override.UI_LOCATION_ALEXANDRIA" = "Aleksandria";
+"Rome.Override.UI_LOCATION_ATHENS" = "Ateny";
+"Rome.Override.UI_LOCATION_THRACIAN_FOOTHILLS" = "Pogórze trackie";
+"Rome.Override.UI_LOCATION_SICILIAN_BEACH" = "Plaża sycylijska";
+"Rome.Override.MACEDONIAN_RUINS_TITLE" = "Ruiny macedońskie";
+"Rome.Override.ANCRYA_TITLE" = "Ancyra";
+"Rome.Override.ROME_TITLE" = "Rzym";
+"Rome.Override.CILICIAN_HILLS_TITLE" = "Wzgórza Cylicji";
+"Rome.Override.SYRIAN_FLATS_TITLE" = "Równiny syryjskie";
+"Rome.Override.ARRETIUM_TITLE" = "Arretium";
+"Rome.Override.ILLYRIAN_VALLEY_TITLE" = "Dolina iliryjska";
+"Rome.Override.SOUTHWATER_TITLE" = "Southwater";
+"Rome.Override.LONDINIUM_TITLE" = "Londinium";
+"Rome.Override.NUMIDIAN_BASIN_TITLE" = "Kotlina numidyjska";
+"Rome.Override.SARMATION_MOUND_TITLE" = "Kurhan sarmacki";
+"Rome.Override.THRACIAN_FOOTHILLS_TITLE" = "Pogórze trackie";
+"Rome.Override.GRASSY_FLATLAND_TITLE" = "Trawiasta równina";
 
 /* Bitwa niestandardowa: gracze, drużyny i frakcje */
 "Rome.InGame.UI_CUSTOM_ATT_INFO" = "Atakujący";
