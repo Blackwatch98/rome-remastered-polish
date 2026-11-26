@@ -656,6 +656,15 @@
 /* Potwierdzenie wyjścia do pulpitu */
 "Rome.InGame.Pause_Menu_Quit_Game" = "Czy na pewno chcesz zakończyć grę i wrócić do pulpitu?";
 "Rome.Override.UI_QUIT_EXIT_TO_WINDOWS" = "Czy na pewno chcesz zakończyć grę i wrócić do pulpitu?";
+"Rome.InGame.UI_ENABLE_PGOW" = "Otwórz okno opcji przed uruchomieniem gry";
+"Rome.InGame.UI_ENABLE_PGOW_INFO" = "Po włączeniu tej opcji okno opcji startowych ROME REMASTERED pojawi się po wyjściu z gry. Jeśli okno zostało wcześniej wyłączone, ta opcja je przywróci.";
+"Rome.Override.LNX.UI_MAIN_MENU_BACK_INFO" = "Anuluj";
+"Rome.Override.OSX.UI_MAIN_MENU_BACK_INFO" = "Anuluj";
+"Rome.Override.WIN.UI_MAIN_MENU_BACK_INFO" = "Anuluj";
+"Rome.Override.UI_MAIN_MENU_BACK_INFO" = "WRÓĆ DO POPRZEDNIEGO MENU.";
+"Rome.Override.AND.UI_MAIN_MENU_QUIT_INFO" = "ZAKOŃCZ GRĘ.";
+"Rome.Override.iOS.UI_MAIN_MENU_QUIT_INFO" = "ZAKOŃCZ GRĘ.";
+"Rome.Override.UI_MAIN_MENU_QUIT_INFO" = "Wyjdź do pulpitu";
 
 /* Menu Szybka bitwa */
 "Rome.InGame.FeralQuickBattleRandom" = "Wylosuj frakcje dla gracza i komputera.";

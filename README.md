@@ -41,7 +41,7 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 | Ustawienia rozgrywki | 105 | 105 | Zidentyfikowane etykiety, opcje i podpowiedzi, w tym warianty platformowe. Pełny zakres w ustalaniu. |
 | Twórcy | 5 | 5 | Nagłówek, etykieta i podpowiedzi menu oraz wzmianka na panelu pomocy. |
 | Wczytywanie gry | 57 | 57 | Okna wczytywania kampanii, bitew i powtórek, sortowanie oraz komunikaty o zapisach. Pełny zakres w ustalaniu. |
-| Potwierdzenie wyjścia | 2 | 2 | Potwierdzenie zakończenia gry i powrotu do pulpitu. |
+| Potwierdzenie wyjścia | 11 | 2 | Potwierdzenie zakończenia gry, przyciski i opcja ponownego otwarcia okna startowego, wraz z wariantami platformowymi. |
 | Szybka bitwa | 74 | 74 | Etykiety menu, wybór frakcji, poprzednia szybka bitwa i podpowiedź rozpoczęcia bitwy. Pełny zakres w ustalaniu. |
 | Bitwa niestandardowa | 456 | 0 | Konfiguracja warunków bitwy, drużyn i armii oraz zapis ustawień. Pełny zakres w ustalaniu. |
 | Bitwy historyczne | 34 | 0 | Menu wyboru bitwy i armii, podpowiedzi oraz zidentyfikowane opisy bitew podstawowego Rome. Pełny zakres w ustalaniu. |
