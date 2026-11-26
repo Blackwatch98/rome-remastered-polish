@@ -24,9 +24,11 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 
 | Gra lub dodatek | Przetłumaczone | Sprawdzone w grze | Status |
 | --- | ---: | ---: | --- |
-| Rome (gra podstawowa) | 227/4801 (4,73%) | 227/4801 (4,73%) | W trakcie, suma obszarów z policzonym zakresem |
+| Rome (gra podstawowa) | 247/4821 (5,12%) | 247/4821 (5,12%) | Tylko obszary z ustalonym pełnym zakresem |
 | Barbarian Invasion | — | — | W kolejce |
 | Alexander | — | — | W kolejce |
+
+Pliki źródłowe moda zawierają razem **1823 unikalne klucze liczone w obrębie każdego pliku**. To 1558 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt` i 190 w `shortcut.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
 
 ### Rome (gra podstawowa)
 
@@ -41,17 +43,17 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 | Ustawienia rozgrywki | 105 | 105 | Zidentyfikowane etykiety, opcje i podpowiedzi, w tym warianty platformowe. Pełny zakres w ustalaniu. |
 | Twórcy | 5 | 5 | Nagłówek, etykieta i podpowiedzi menu oraz wzmianka na panelu pomocy. |
 | Wczytywanie gry | 57 | 57 | Okna wczytywania kampanii, bitew i powtórek, sortowanie oraz komunikaty o zapisach. Pełny zakres w ustalaniu. |
-| Potwierdzenie wyjścia | 11 | 2 | Potwierdzenie zakończenia gry, przyciski i opcja ponownego otwarcia okna startowego, wraz z wariantami platformowymi. |
+| Potwierdzenie wyjścia | 11 | 11 | Potwierdzenie zakończenia gry, przyciski i opcja ponownego otwarcia okna startowego, wraz z wariantami platformowymi. |
 | Szybka bitwa | 74 | 74 | Etykiety menu, wybór frakcji, poprzednia szybka bitwa i podpowiedź rozpoczęcia bitwy. Pełny zakres w ustalaniu. |
-| Bitwa niestandardowa | 456 | 0 | Konfiguracja warunków bitwy, drużyn i armii oraz zapis ustawień. Pełny zakres w ustalaniu. |
-| Lokacje bitew niestandardowych | 51 | 0 | 38 nazw w menu i 13 tytułów lokacji w `en.strings`. Tytuły są także w źródłowym `battle_descriptions.txt`. |
-| Bitwy historyczne | 34 | 0 | Menu wyboru bitwy i armii, podpowiedzi oraz zidentyfikowane opisy bitew podstawowego Rome. Pełny zakres w ustalaniu. |
-| Tytuły i opisy bitew historycznych | 20/20 (100%) | 0/20 (0%) | Tytuł i opis każdego z 10 scenariuszy jednoosobowych podstawowego Rome w `Rome-PL/data/text/battle_descriptions.txt`. |
-| Karty jednostek w bitwach | 102 | 0 | Statystyki, podpowiedzi, cechy i zdolności jednostek. |
-| Cele i daty bitew | 20 | 0 | Cele, wymagania liczebności i formaty lat w menu oraz na ekranie bitwy. |
-| Kampania imperialna | 155 | 0 | Wybór frakcji, ustawienia kampanii, warunki zwycięstwa i opisy modyfikatorów, w tym 38 tytułów i opisów 19 frakcji. Pełny zakres w ustalaniu. |
-| Krótkie opisy frakcji i ich armii | 47 | 0 | 26 wpisów w `en.strings` i 21 w `expanded_bi.txt`. |
-| Nazwy frakcji | 21 | — | Nazwy podstawowego Rome w `expanded_bi.txt`, używane m.in. nad komunikatem blokady. |
+| Bitwa niestandardowa | 456 | 456 | Konfiguracja warunków bitwy, drużyn i armii oraz zapis ustawień. Pełny zakres w ustalaniu. |
+| Lokacje bitew niestandardowych | 51 | 51 | 38 nazw w menu i 13 tytułów lokacji w `en.strings`. Tytuły są także w źródłowym `battle_descriptions.txt`. |
+| Bitwy historyczne | 34 | 34 | Menu wyboru bitwy i armii, podpowiedzi oraz zidentyfikowane opisy bitew podstawowego Rome. Pełny zakres w ustalaniu. |
+| Tytuły i opisy bitew historycznych | 20/20 (100%) | 20/20 (100%) | Tytuł i opis każdego z 10 scenariuszy jednoosobowych podstawowego Rome w `Rome-PL/data/text/battle_descriptions.txt`. |
+| Karty jednostek w bitwach | 102 | 102 | Statystyki, podpowiedzi, cechy i zdolności jednostek. |
+| Cele i daty bitew | 20 | 20 | Cele, wymagania liczebności i formaty lat w menu oraz na ekranie bitwy. |
+| Kampania imperialna | 155 | 155 | Wybór frakcji, ustawienia kampanii, warunki zwycięstwa i opisy modyfikatorów, w tym 38 tytułów i opisów 19 frakcji. Pełny zakres w ustalaniu. |
+| Krótkie opisy frakcji i ich armii | 47 | 47 | 26 wpisów w `en.strings` i 21 w `expanded_bi.txt`. |
+| Nazwy frakcji | 21 | 21 | Nazwy podstawowego Rome w `expanded_bi.txt`, używane m.in. nad komunikatem blokady. |
 | Nazwy akcji i kategorii skrótów | 190/190 (100%) | 190/190 (100%) | `shortcut.txt`, 203 wpisy z uwzględnieniem powtórzonych kluczy. |
 | Nazwy jednostek | 0/265 (0%) | 0/265 (0%) | Klucze nazw z `export_units.txt` |
 | Opisy jednostek | 0/530 (0%) | 0/530 (0%) | Klucze z końcówką `_descr` lub `_descr_short` z `export_units.txt` |
@@ -66,6 +68,33 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 Liczymy unikalne klucze w ustalonym zakresie. Procenty liczymy względem wszystkich wpisów w danym zakresie. Przy niepełnym zakresie podajemy liczby bez procentu i poza sumą zbiorczą. Po zmianie tekstu lub jego wyświetlania sprawdź dany wpis ponownie, zanim zaliczysz go do drugiej kolumny. Kreska oznacza obszar, dla którego trzeba jeszcze ustalić komplet kluczy.
 
 Liczby pochodzą z angielskich plików podstawowego Rome. Klucze nawigacji menu policzyliśmy osobno. Przy ekranach szczegółowych i oknach dialogowych nadal ustalamy pełną listę wpisów. Zakres Barbarian Invasion i Alexander ustalimy osobno na podstawie plików każdego dodatku, gdy rozpoczniemy prace nad jego tłumaczeniem.
+
+### Zakres całego spolszczenia
+
+Celem jest polski tekst widoczny dla gracza w podstawowym Rome na Steam, od okna startowego i menu po kampanię imperialną, samouczek, bitwy oraz napisy. Nazwy własne i terminy pozostawione świadomie w oryginale też należy przejrzeć. Barbarian Invasion i Alexander mają osobne zakresy.
+
+#### Inwentaryzacja głównych tabel tekstu
+
+Punkt odniesienia to angielska instalacja Steam, kompilacja `8081527`. W głównym katalogu `data/text` znaleźliśmy **23 896 kluczy liczonych osobno w każdym z 43 plików**. Po połączeniu powtarzających się kluczy zostaje **23 294**. Z grup `Rome.InGame`, `Rome.Override`, `Rome.Annotations` i `Rome.LoadingTips` w `Localizable_Game.strings` pochodzi kolejnych **7582** kluczy po odjęciu jawnie oznaczonych wpisów dodatków i wariantów konsolowych lub mobilnych. **2117** identyfikatorów występuje w obu źródłach, co daje **28 759** identyfikatorów w inwentaryzacji. W plikach moda znajdują się odpowiedniki **1761 z nich (6,12%)**. To pokrycie zebranych kluczy. Ustalenie, które wpisy są używane w grze i które wymagają przekładu, może zmienić mianownik.
+
+| Obszar | Klucze w plikach `data/text` | Tabele źródłowe |
+| --- | ---: | --- |
+| Menu, sterowanie, interfejs bitwy i kampanii | 5580 | `menu_english_stm.txt`, `shortcut.txt`, `battle.txt`, `building_battle.txt`, `shared.txt`, `expanded.txt`, `expanded_bi.txt`, `strat.txt`, `cursor_action_tooltips.txt`, `tooltips.txt` |
+| Jednostki i budynki | 3959 | `export_units.txt`, `export_buildings.txt` |
+| Postacie, imiona, cechy i świta | 5923 | `names.txt`, `names_feral.txt`, `export_vnvs.txt`, `export_ancillaries.txt` |
+| Dyplomacja i wydarzenia | 1983 | `diplomacy.txt`, `event_strings.txt`, `event_titles.txt`, `historic_events.txt`, `major_events.txt` |
+| Kampanie, scenariusze bitew, regiony i zasoby | 802 | `campaign_descriptions.txt`, `battle_descriptions.txt`, `rebel_faction_descr.txt`, `climates.txt`, `landmarks.txt`, `resources.txt` i cztery tabele `*_regions_and_settlement_names.txt` |
+| Samouczek i doradcy | 3191 | `export_advice.txt`, `export_advice_feral.txt`, `export_prologue.txt`, `export_prologue_feral.txt` |
+| Napisy i cytaty | 2213 | `battle_event_subtitles.txt`, `factionintrosubtitles.txt`, `historic_battles_subtitles.txt`, `prebattle_speeches_subtitles.txt`, `quotes.txt` |
+| Edytor bitew | 245 | `battle_ed.txt`, do potwierdzenia dostępność w zwykłej instalacji Steam |
+
+Pozycje w tabeli liczą klucze osobno w każdym pliku. Dla powtórzeń w jednym pliku liczymy klucz raz. W połączonej inwentaryzacji klucz `{NAZWA}` z `data/text` odpowiada `Rome.Override.NAZWA`. Jeśli gra używa różnych wartości pod tym samym kluczem, oba konteksty wymagają sprawdzenia. Uwzględniamy angielski wariant menu Steam, czyli `menu_english_stm.txt`. Dane przypisań z `descr_shortcuts.txt`, nieużyty wariant `menu_english.txt` i stara tabela regionów `old_imperial_*` są poza inwentaryzacją. Format daty i prosty plik napisów końcowych wymagają oddzielnego sprawdzenia, bo nie mają kluczy w nawiasach klamrowych.
+
+#### Co trzeba jeszcze przypisać do zakresu
+
+- **Launcher i wspólny interfejs Feral.** Napisy okna startowego, menedżera modów, komunikatów i wyboru gry występują w `Rome.Startup` oraz w ogólnym `Localizable.strings`. Ten drugi zawiera 2016 kluczy, w tym współdzielone i platformowe. Do zakresu wchodzą te wyświetlane przez Steam przy uruchamianiu podstawowego Rome.
+- **Współdzielone i archiwalne wpisy.** Trzeba przypisać teksty bez jednoznacznego oznaczenia do podstawowego Rome lub dodatków, sprawdzić dostępność edytora i kampanii pomocniczych, a także wyłapać aliasy, puste wpisy i nazwy pozostające bez zmian.
+- **Napisy poza głównymi tabelami.** Przy testach okien i scenariuszy trzeba odnotować tekst wyświetlany z danych map, materiałów wideo lub innych źródeł. Taki wpis dopisujemy do zakresu po ustaleniu źródła i sposobu nadpisania.
 
 ## 📦 Instalacja
 
