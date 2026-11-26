@@ -43,6 +43,7 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 | Wczytywanie gry | 57 | 57 | Okna wczytywania kampanii, bitew i powtórek, sortowanie oraz komunikaty o zapisach. Pełny zakres w ustalaniu. |
 | Potwierdzenie wyjścia | 2 | 2 | Potwierdzenie zakończenia gry i powrotu do pulpitu. |
 | Szybka bitwa | 74 | 74 | Etykiety menu, wybór frakcji, poprzednia szybka bitwa i podpowiedź rozpoczęcia bitwy. Pełny zakres w ustalaniu. |
+| Bitwa niestandardowa | 444 | 0 | Konfiguracja warunków bitwy, drużyn i armii oraz zapis ustawień. Pełny zakres w ustalaniu. |
 | Nazwy akcji i kategorii skrótów | 190/190 (100%) | 190/190 (100%) | `shortcut.txt`, 203 wpisy z uwzględnieniem powtórzonych kluczy. |
 | Nazwy jednostek | 0/265 (0%) | 0/265 (0%) | Klucze nazw z `export_units.txt` |
 | Opisy jednostek | 0/530 (0%) | 0/530 (0%) | Klucze z końcówką `_descr` lub `_descr_short` z `export_units.txt` |
