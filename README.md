@@ -24,7 +24,7 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 
 | Gra lub dodatek | Przetłumaczone | Sprawdzone w grze | Status |
 | --- | ---: | ---: | --- |
-| Rome (gra podstawowa) | 1042/4821 (21,61%) | 933/4821 (19,35%) | Tylko obszary z ustalonym pełnym zakresem |
+| Rome (gra podstawowa) | 1042/4821 (21,61%) | 1042/4821 (21,61%) | Tylko obszary z ustalonym pełnym zakresem |
 | Barbarian Invasion | — | — | W kolejce |
 | Alexander | — | — | W kolejce |
 
@@ -56,7 +56,7 @@ Pliki źródłowe moda zawierają razem **2690 unikalnych kluczy liczonych w obr
 | Nazwy frakcji | 21 | 21 | Nazwy podstawowego Rome w `expanded_bi.txt`, używane m.in. nad komunikatem blokady. |
 | Nazwy akcji i kategorii skrótów | 190/190 (100%) | 190/190 (100%) | `shortcut.txt`, 203 wpisy z uwzględnieniem powtórzonych kluczy. |
 | Nazwy jednostek | 265/265 (100%) | 265/265 (100%) | Wszystkie klucze nazw jednostek i okrętów z `export_units.txt` |
-| Opisy jednostek | 530/530 (100%) | 421/530 (79,43%) | Wszystkie klucze krótkich i pełnych opisów jednostek oraz okrętów z `export_units.txt`, w tym dwanaście znaczników braku pełnego opisu. Dla 72 kluczy dodano polskie nadpisania Feral w `en.strings`. Wpisy objęte tą zmianą wymagają sprawdzenia w grze. |
+| Opisy jednostek | 530/530 (100%) | 530/530 (100%) | Wszystkie klucze krótkich i pełnych opisów jednostek oraz okrętów z `export_units.txt`, w tym dwanaście znaczników braku pełnego opisu. Dla 72 kluczy dodano polskie nadpisania Feral w `en.strings`. |
 | Budynki i ulepszenia | 0/3164 (0%) | 0/3164 (0%) | `export_buildings.txt` |
 | Dyplomacja | 0/408 (0%) | 0/408 (0%) | `diplomacy.txt` |
 | Regiony i osady kampanii imperialnej | 0/207 (0%) | 0/207 (0%) | `imperial_campaign_regions_and_settlement_names.txt` |
