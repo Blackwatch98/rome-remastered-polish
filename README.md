@@ -24,7 +24,7 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 
 | Gra lub dodatek | Przetłumaczone | Sprawdzone w grze | Status |
 | --- | ---: | ---: | --- |
-| Rome (gra podstawowa) | 996/4821 (20,66%) | 850/4821 (17,63%) | Tylko obszary z ustalonym pełnym zakresem |
+| Rome (gra podstawowa) | 996/4821 (20,66%) | 996/4821 (20,66%) | Tylko obszary z ustalonym pełnym zakresem |
 | Barbarian Invasion | — | — | W kolejce |
 | Alexander | — | — | W kolejce |
 
@@ -56,7 +56,7 @@ Pliki źródłowe moda zawierają razem **2572 unikalnych kluczy liczonych w obr
 | Nazwy frakcji | 21 | 21 | Nazwy podstawowego Rome w `expanded_bi.txt`, używane m.in. nad komunikatem blokady. |
 | Nazwy akcji i kategorii skrótów | 190/190 (100%) | 190/190 (100%) | `shortcut.txt`, 203 wpisy z uwzględnieniem powtórzonych kluczy. |
 | Nazwy jednostek | 265/265 (100%) | 265/265 (100%) | Wszystkie klucze nazw jednostek i okrętów z `export_units.txt` |
-| Opisy jednostek | 484/530 (91,32%) | 338/530 (63,77%) | Komplet opisów grup rzymskiej, barbarzyńskiej, grecko-hellenistycznej, wschodniej, kartagińskiej, egipskiej i najemnej, w tym dwanaście znaczników braku pełnego opisu. |
+| Opisy jednostek | 484/530 (91,32%) | 484/530 (91,32%) | Komplet opisów grup rzymskiej, barbarzyńskiej, grecko-hellenistycznej, wschodniej, kartagińskiej, egipskiej i najemnej, w tym dwanaście znaczników braku pełnego opisu. |
 | Budynki i ulepszenia | 0/3164 (0%) | 0/3164 (0%) | `export_buildings.txt` |
 | Dyplomacja | 0/408 (0%) | 0/408 (0%) | `diplomacy.txt` |
 | Regiony i osady kampanii imperialnej | 0/207 (0%) | 0/207 (0%) | `imperial_campaign_regions_and_settlement_names.txt` |
