@@ -33,6 +33,7 @@ Przed utworzeniem nowego zgłoszenia sprawdź, czy podobny problem nie został j
 Podczas pracy nad spolszczeniem proszę o:
 
 - Stosowanie poprawnej polszczyzny.
+- Kończenie pełnych zdań oznajmujących i poleceń kropką. Krótkie etykiety, nagłówki i opisy rzeczownikowe mogą pozostać bez kropki.
 - Zachowywanie spójności terminologii.
 - Uwzględnianie kontekstu historycznego gry.
 - Unikanie dosłownego tłumaczenia, jeśli prowadzi ono do nienaturalnych sformułowań.
@@ -41,9 +42,9 @@ Podczas pracy nad spolszczeniem proszę o:
 
 Szczegółowe zasady dotyczące nazw historycznych i terminologii będę opracowywać w trakcie rozwoju projektu.
 
-## Ręczna weryfikacja tłumaczeń
+## Weryfikacja tłumaczeń w grze
 
-Porównaj wygląd oryginału i spolszczenia na tym samym ekranie. Sprawdź, czy polski tekst mieści się w przewidzianym miejscu, wyświetla się bez ucięć i pozostaje czytelny. Po teście zaktualizuj kolumnę **Sprawdzone ręcznie** w [tabeli postępu](README.md#postęp-tłumaczenia). Wpisy sprawdzone wcześniej można pominąć, dopóki tekst i jego wyświetlanie się nie zmienią.
+Porównaj wygląd oryginału i spolszczenia na tym samym ekranie. Sprawdź, czy polski tekst mieści się w przewidzianym miejscu, wyświetla się bez ucięć i pozostaje czytelny. Po teście zaktualizuj kolumnę **Sprawdzone w grze** w [tabeli postępu](README.md#postęp-tłumaczenia). Wpisy sprawdzone wcześniej można pominąć, dopóki tekst i jego wyświetlanie się nie zmienią.
 
 ## Zgłaszanie zmian
 
