@@ -47,7 +47,9 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 | Bitwy historyczne | 34 | 0 | Menu wyboru bitwy i armii, podpowiedzi oraz zidentyfikowane opisy bitew podstawowego Rome. Pełny zakres w ustalaniu. |
 | Tytuły i opisy bitew historycznych | 20/20 (100%) | 0/20 (0%) | Tytuł i opis każdego z 10 scenariuszy jednoosobowych podstawowego Rome w `Rome-PL/data/text/battle_descriptions.txt`. |
 | Cele i daty bitew | 20 | 0 | Cele, wymagania liczebności i formaty lat w menu oraz na ekranie bitwy. |
-| Kampania imperialna | 117 | 0 | Wybór frakcji, ustawienia kampanii, warunki zwycięstwa i opisy modyfikatorów. Pełny zakres w ustalaniu. |
+| Kampania imperialna | 155 | 0 | Wybór frakcji, ustawienia kampanii, warunki zwycięstwa i opisy modyfikatorów, w tym 38 tytułów i opisów 19 frakcji. Pełny zakres w ustalaniu. |
+| Krótkie opisy frakcji i ich armii | 47 | 0 | 26 wpisów w `en.strings` i 21 w `expanded_bi.txt`. |
+| Nazwy frakcji | 21 | — | Nazwy podstawowego Rome w `expanded_bi.txt`, używane m.in. nad komunikatem blokady. |
 | Nazwy akcji i kategorii skrótów | 190/190 (100%) | 190/190 (100%) | `shortcut.txt`, 203 wpisy z uwzględnieniem powtórzonych kluczy. |
 | Nazwy jednostek | 0/265 (0%) | 0/265 (0%) | Klucze nazw z `export_units.txt` |
 | Opisy jednostek | 0/530 (0%) | 0/530 (0%) | Klucze z końcówką `_descr` lub `_descr_short` z `export_units.txt` |
