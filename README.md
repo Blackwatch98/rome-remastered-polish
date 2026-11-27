@@ -24,11 +24,11 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 
 | Gra lub dodatek | Przetłumaczone | Sprawdzone w grze | Status |
 | --- | ---: | ---: | --- |
-| Rome (gra podstawowa) | 1056/4835 (21,84%) | 1042/4835 (21,55%) | Tylko obszary z ustalonym pełnym zakresem |
+| Rome (gra podstawowa) | 1110/4835 (22,96%) | 1096/4835 (22,67%) | Tylko obszary z ustalonym pełnym zakresem |
 | Barbarian Invasion | — | — | W kolejce |
 | Alexander | — | — | W kolejce |
 
-Pliki źródłowe moda zawierają razem **2708 unikalnych kluczy liczonych w obrębie każdego pliku**. To 1648 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 795 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
+Pliki źródłowe moda zawierają razem **2777 unikalnych kluczy liczonych w obrębie każdego pliku**. To 1717 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 795 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
 
 ### Rome (gra podstawowa)
 
@@ -59,7 +59,7 @@ Pliki źródłowe moda zawierają razem **2708 unikalnych kluczy liczonych w obr
 | Nazwy jednostek | 265/265 (100%) | 265/265 (100%) | Wszystkie klucze nazw jednostek i okrętów z `export_units.txt` |
 | Opisy jednostek | 530/530 (100%) | 530/530 (100%) | Wszystkie klucze krótkich i pełnych opisów jednostek oraz okrętów z `export_units.txt`, w tym dwanaście znaczników braku pełnego opisu. Dla 72 kluczy dodano polskie nadpisania Feral w `en.strings`. |
 | Budynki i ulepszenia | 0/3164 (0%) | 0/3164 (0%) | `export_buildings.txt` |
-| Dyplomacja | 0/408 (0%) | 0/408 (0%) | `diplomacy.txt` |
+| Dyplomacja | 54/408 (13,24%) | 54/408 (13,24%) | 51 kwestii rzymskich i 3 inne nadpisania kluczy z `diplomacy.txt` w `en.strings`. Sprawdzono też w grze 15 dodatkowych kwestii Feral spoza tabeli. |
 | Regiony i osady kampanii imperialnej | 0/207 (0%) | 0/207 (0%) | `imperial_campaign_regions_and_settlement_names.txt` |
 | Wydarzenia kampanii | — | — | `event_strings.txt`, `event_titles.txt`, `historic_events.txt`, `major_events.txt` |
 | Postacie, cechy i świta | — | — | `names*.txt`, `export_vnvs.txt`, `export_ancillaries.txt` |
