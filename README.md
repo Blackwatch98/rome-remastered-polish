@@ -28,7 +28,7 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 | Barbarian Invasion | 102/102 (100%) | 102/102 (100%) | W ustalonym zakresie dyplomacji Hunów i nomadów |
 | Alexander | — | — | W kolejce |
 
-Pliki źródłowe moda zawierają razem **3257 unikalnych kluczy liczonych w obrębie każdego pliku**. To 2197 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 795 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
+Pliki źródłowe moda zawierają razem **3304 unikalnych kluczy liczonych w obrębie każdego pliku**. To 2244 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 795 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
 
 ### Rome (gra podstawowa)
 
@@ -60,7 +60,7 @@ Pliki źródłowe moda zawierają razem **3257 unikalnych kluczy liczonych w obr
 | Opisy jednostek | 530/530 (100%) | 530/530 (100%) | Wszystkie klucze krótkich i pełnych opisów jednostek oraz okrętów z `export_units.txt`, w tym dwanaście znaczników braku pełnego opisu. Dla 72 kluczy dodano polskie nadpisania Feral w `en.strings`. |
 | Budynki i ulepszenia | 0/3164 (0%) | 0/3164 (0%) | `export_buildings.txt` |
 | Kwestie dyplomatyczne | 306/306 (100%) | 306/306 (100%) | Po 51 kwestii rzymskich, barbarzyńskich, kartagińskich, greckich, egipskich i wschodnich. Nadpisania kluczy z `diplomacy.txt` są w `en.strings`. Sprawdzono też w grze 15 dodatkowych kwestii Feral spoza tabeli. Surowy plik zawiera również 102 klucze Hunów i nomadów, przypisane w konfiguracji do Barbarian Invasion. |
-| Interfejs dyplomacji | 126 | 126 | Teksty ofert, żądań, deklaracji, statusów i podpowiedzi. Pełny zakres w ustalaniu. |
+| Interfejs dyplomacji | 173 | 173 | Teksty ofert, żądań, deklaracji, statusów i podpowiedzi. Pełny zakres w ustalaniu. |
 | Regiony i osady kampanii imperialnej | 0/207 (0%) | 0/207 (0%) | `imperial_campaign_regions_and_settlement_names.txt` |
 | Wydarzenia kampanii | — | — | `event_strings.txt`, `event_titles.txt`, `historic_events.txt`, `major_events.txt` |
 | Postacie, cechy i świta | — | — | `names*.txt`, `export_vnvs.txt`, `export_ancillaries.txt` |
