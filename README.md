@@ -24,11 +24,11 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 
 | Gra lub dodatek | Przetłumaczone | Sprawdzone w grze | Status |
 | --- | ---: | ---: | --- |
-| Rome (gra podstawowa) | 1160/4835 (23,99%) | 1146/4835 (23,70%) | Tylko obszary z ustalonym pełnym zakresem |
+| Rome (gra podstawowa) | 1210/4835 (25,03%) | 1196/4835 (24,74%) | Tylko obszary z ustalonym pełnym zakresem |
 | Barbarian Invasion | — | — | W kolejce |
 | Alexander | — | — | W kolejce |
 
-Pliki źródłowe moda zawierają razem **2827 unikalnych kluczy liczonych w obrębie każdego pliku**. To 1767 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 795 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
+Pliki źródłowe moda zawierają razem **2877 unikalnych kluczy liczonych w obrębie każdego pliku**. To 1817 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 795 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
 
 ### Rome (gra podstawowa)
 
@@ -59,7 +59,7 @@ Pliki źródłowe moda zawierają razem **2827 unikalnych kluczy liczonych w obr
 | Nazwy jednostek | 265/265 (100%) | 265/265 (100%) | Wszystkie klucze nazw jednostek i okrętów z `export_units.txt` |
 | Opisy jednostek | 530/530 (100%) | 530/530 (100%) | Wszystkie klucze krótkich i pełnych opisów jednostek oraz okrętów z `export_units.txt`, w tym dwanaście znaczników braku pełnego opisu. Dla 72 kluczy dodano polskie nadpisania Feral w `en.strings`. |
 | Budynki i ulepszenia | 0/3164 (0%) | 0/3164 (0%) | `export_buildings.txt` |
-| Dyplomacja | 104/408 (25,49%) | 104/408 (25,49%) | 51 kwestii rzymskich, 51 barbarzyńskich i 2 inne nadpisania kluczy z `diplomacy.txt` w `en.strings`. Sprawdzono też w grze 15 dodatkowych kwestii Feral spoza tabeli. |
+| Dyplomacja | 154/408 (37,75%) | 154/408 (37,75%) | Po 51 kwestii rzymskich, barbarzyńskich i kartagińskich oraz jedna kwestia frakcji wschodnich. Nadpisania kluczy z `diplomacy.txt` są w `en.strings`. Sprawdzono też w grze 15 dodatkowych kwestii Feral spoza tabeli. |
 | Regiony i osady kampanii imperialnej | 0/207 (0%) | 0/207 (0%) | `imperial_campaign_regions_and_settlement_names.txt` |
 | Wydarzenia kampanii | — | — | `event_strings.txt`, `event_titles.txt`, `historic_events.txt`, `major_events.txt` |
 | Postacie, cechy i świta | — | — | `names*.txt`, `export_vnvs.txt`, `export_ancillaries.txt` |
