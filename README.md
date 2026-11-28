@@ -24,11 +24,11 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 
 | Gra lub dodatek | Przetłumaczone | Sprawdzone w grze | Status |
 | --- | ---: | ---: | --- |
-| Rome (gra podstawowa) | 1056/4835 (21,84%) | 1042/4835 (21,55%) | Tylko obszary z ustalonym pełnym zakresem |
-| Barbarian Invasion | — | — | W kolejce |
+| Rome (gra podstawowa) | 1362/4733 (28,78%) | 1362/4733 (28,78%) | Tylko obszary z ustalonym pełnym zakresem |
+| Barbarian Invasion | 102/102 (100%) | 102/102 (100%) | W ustalonym zakresie dyplomacji Hunów i nomadów |
 | Alexander | — | — | W kolejce |
 
-Pliki źródłowe moda zawierają razem **2708 unikalnych kluczy liczonych w obrębie każdego pliku**. To 1648 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 795 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
+Pliki źródłowe moda zawierają razem **3304 unikalnych kluczy liczonych w obrębie każdego pliku**. To 2244 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 795 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
 
 ### Rome (gra podstawowa)
 
@@ -50,7 +50,7 @@ Pliki źródłowe moda zawierają razem **2708 unikalnych kluczy liczonych w obr
 | Bitwy historyczne | 38 | 34 | Menu wyboru bitwy i armii, podpowiedzi oraz zidentyfikowane opisy bitew podstawowego Rome. Pełny zakres w ustalaniu. |
 | Tytuły i opisy bitew historycznych | 20/20 (100%) | 20/20 (100%) | Tytuł i opis każdego z 10 scenariuszy jednoosobowych podstawowego Rome w `Rome-PL/data/text/battle_descriptions.txt`. |
 | Karty jednostek w bitwach | 102 | 102 | Statystyki, podpowiedzi, cechy i zdolności jednostek. |
-| Rodzaje jednostek | 14/14 (100%) | 0/14 (0%) | Polskie nadpisania `Rome.Override.BMT_UNIT_*` w `en.strings` dla kluczy z `battle.txt`. |
+| Rodzaje jednostek | 14/14 (100%) | 14/14 (100%) | Polskie nadpisania `Rome.Override.BMT_UNIT_*` w `en.strings` dla kluczy z `battle.txt`. |
 | Cele i daty bitew | 20 | 20 | Cele, wymagania liczebności i formaty lat w menu oraz na ekranie bitwy. |
 | Kampania imperialna | 155 | 155 | Wybór frakcji, ustawienia kampanii, warunki zwycięstwa i opisy modyfikatorów, w tym 38 tytułów i opisów 19 frakcji. Pełny zakres w ustalaniu. |
 | Krótkie opisy frakcji i ich armii | 47 | 47 | 26 wpisów w `en.strings` i 21 w `expanded_bi.txt`. |
@@ -59,7 +59,8 @@ Pliki źródłowe moda zawierają razem **2708 unikalnych kluczy liczonych w obr
 | Nazwy jednostek | 265/265 (100%) | 265/265 (100%) | Wszystkie klucze nazw jednostek i okrętów z `export_units.txt` |
 | Opisy jednostek | 530/530 (100%) | 530/530 (100%) | Wszystkie klucze krótkich i pełnych opisów jednostek oraz okrętów z `export_units.txt`, w tym dwanaście znaczników braku pełnego opisu. Dla 72 kluczy dodano polskie nadpisania Feral w `en.strings`. |
 | Budynki i ulepszenia | 0/3164 (0%) | 0/3164 (0%) | `export_buildings.txt` |
-| Dyplomacja | 0/408 (0%) | 0/408 (0%) | `diplomacy.txt` |
+| Kwestie dyplomatyczne | 306/306 (100%) | 306/306 (100%) | Po 51 kwestii rzymskich, barbarzyńskich, kartagińskich, greckich, egipskich i wschodnich. Nadpisania kluczy z `diplomacy.txt` są w `en.strings`. Sprawdzono też w grze 15 dodatkowych kwestii Feral spoza tabeli. Surowy plik zawiera również 102 klucze Hunów i nomadów, przypisane w konfiguracji do Barbarian Invasion. |
+| Interfejs dyplomacji | 173 | 173 | Teksty ofert, żądań, deklaracji, statusów i podpowiedzi. Pełny zakres w ustalaniu. |
 | Regiony i osady kampanii imperialnej | 0/207 (0%) | 0/207 (0%) | `imperial_campaign_regions_and_settlement_names.txt` |
 | Wydarzenia kampanii | — | — | `event_strings.txt`, `event_titles.txt`, `historic_events.txt`, `major_events.txt` |
 | Postacie, cechy i świta | — | — | `names*.txt`, `export_vnvs.txt`, `export_ancillaries.txt` |
@@ -68,7 +69,16 @@ Pliki źródłowe moda zawierają razem **2708 unikalnych kluczy liczonych w obr
 
 Liczymy unikalne klucze w ustalonym zakresie. Procenty liczymy względem wszystkich wpisów w danym zakresie. Przy niepełnym zakresie podajemy liczby bez procentu i poza sumą zbiorczą. Po zmianie tekstu lub jego wyświetlania sprawdź dany wpis ponownie, zanim zaliczysz go do drugiej kolumny. Kreska oznacza obszar, dla którego trzeba jeszcze ustalić komplet kluczy.
 
-Liczby pochodzą z angielskich plików podstawowego Rome. Klucze nawigacji menu policzyliśmy osobno. Przy ekranach szczegółowych i oknach dialogowych nadal ustalamy pełną listę wpisów. Zakres Barbarian Invasion i Alexander ustalimy osobno na podstawie plików każdego dodatku, gdy rozpoczniemy prace nad jego tłumaczeniem.
+Liczby pochodzą z angielskich plików podstawowego Rome. Klucze nawigacji menu policzyliśmy osobno. Przy ekranach szczegółowych i oknach dialogowych nadal ustalamy pełną listę wpisów. Pełny zakres Barbarian Invasion i Alexander ustalimy osobno na podstawie plików każdego dodatku.
+
+### Barbarian Invasion
+
+| Obszar | Przetłumaczone | Sprawdzone w grze | Zakres |
+| --- | ---: | ---: | --- |
+| Dyplomacja Hunów | 51/51 (100%) | 51/51 (100%) | Klucze `DRT_HUN_*` z `diplomacy.txt` |
+| Dyplomacja nomadów | 51/51 (100%) | 51/51 (100%) | Klucze `DRT_NOMAD_*` z `diplomacy.txt` |
+
+Obie grupy zapisano w `en.strings`. Pełny zakres tłumaczenia dodatku pozostaje do ustalenia.
 
 ### Zakres całego spolszczenia
 
