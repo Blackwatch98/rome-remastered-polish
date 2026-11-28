@@ -25,10 +25,10 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 | Gra lub dodatek | Przetłumaczone | Sprawdzone w grze | Status |
 | --- | ---: | ---: | --- |
 | Rome (gra podstawowa) | 1362/4733 (28,78%) | 1348/4733 (28,48%) | Tylko obszary z ustalonym pełnym zakresem |
-| Barbarian Invasion | — | — | W kolejce |
+| Barbarian Invasion | 51/51 (100%) | 51/51 (100%) | W ustalonym zakresie dyplomacji Hunów |
 | Alexander | — | — | W kolejce |
 
-Pliki źródłowe moda zawierają razem **3029 unikalnych kluczy liczonych w obrębie każdego pliku**. To 1969 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 795 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
+Pliki źródłowe moda zawierają razem **3080 unikalnych kluczy liczonych w obrębie każdego pliku**. To 2020 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 795 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
 
 ### Rome (gra podstawowa)
 
@@ -69,6 +69,14 @@ Pliki źródłowe moda zawierają razem **3029 unikalnych kluczy liczonych w obr
 Liczymy unikalne klucze w ustalonym zakresie. Procenty liczymy względem wszystkich wpisów w danym zakresie. Przy niepełnym zakresie podajemy liczby bez procentu i poza sumą zbiorczą. Po zmianie tekstu lub jego wyświetlania sprawdź dany wpis ponownie, zanim zaliczysz go do drugiej kolumny. Kreska oznacza obszar, dla którego trzeba jeszcze ustalić komplet kluczy.
 
 Liczby pochodzą z angielskich plików podstawowego Rome. Klucze nawigacji menu policzyliśmy osobno. Przy ekranach szczegółowych i oknach dialogowych nadal ustalamy pełną listę wpisów. Pełny zakres Barbarian Invasion i Alexander ustalimy osobno na podstawie plików każdego dodatku.
+
+### Barbarian Invasion
+
+| Obszar | Przetłumaczone | Sprawdzone w grze | Zakres |
+| --- | ---: | ---: | --- |
+| Dyplomacja Hunów | 51/51 (100%) | 51/51 (100%) | Klucze `DRT_HUN_*` z `diplomacy.txt` |
+
+Kwestie Hunów zapisano w `en.strings`. Pełny zakres tłumaczenia dodatku pozostaje do ustalenia.
 
 ### Zakres całego spolszczenia
 
