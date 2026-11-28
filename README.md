@@ -25,10 +25,10 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 | Gra lub dodatek | Przetłumaczone | Sprawdzone w grze | Status |
 | --- | ---: | ---: | --- |
 | Rome (gra podstawowa) | 1362/4733 (28,78%) | 1348/4733 (28,48%) | Tylko obszary z ustalonym pełnym zakresem |
-| Barbarian Invasion | 51/51 (100%) | 51/51 (100%) | W ustalonym zakresie dyplomacji Hunów |
+| Barbarian Invasion | 102/102 (100%) | 102/102 (100%) | W ustalonym zakresie dyplomacji Hunów i nomadów |
 | Alexander | — | — | W kolejce |
 
-Pliki źródłowe moda zawierają razem **3080 unikalnych kluczy liczonych w obrębie każdego pliku**. To 2020 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 795 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
+Pliki źródłowe moda zawierają razem **3131 unikalnych kluczy liczonych w obrębie każdego pliku**. To 2071 w `en.strings`, 33 w `battle_descriptions.txt`, 42 w `expanded_bi.txt`, 190 w `shortcut.txt` i 795 w `export_units.txt`. Ta liczba obejmuje także rozpoczęte obszary i uwzględnia sytuacje, w których ten sam napis ma klucze w kilku plikach lub wariantach platformowych.
 
 ### Rome (gra podstawowa)
 
@@ -75,8 +75,9 @@ Liczby pochodzą z angielskich plików podstawowego Rome. Klucze nawigacji menu 
 | Obszar | Przetłumaczone | Sprawdzone w grze | Zakres |
 | --- | ---: | ---: | --- |
 | Dyplomacja Hunów | 51/51 (100%) | 51/51 (100%) | Klucze `DRT_HUN_*` z `diplomacy.txt` |
+| Dyplomacja nomadów | 51/51 (100%) | 51/51 (100%) | Klucze `DRT_NOMAD_*` z `diplomacy.txt` |
 
-Kwestie Hunów zapisano w `en.strings`. Pełny zakres tłumaczenia dodatku pozostaje do ustalenia.
+Obie grupy zapisano w `en.strings`. Pełny zakres tłumaczenia dodatku pozostaje do ustalenia.
 
 ### Zakres całego spolszczenia
 
