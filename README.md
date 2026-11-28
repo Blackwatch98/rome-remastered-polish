@@ -24,7 +24,7 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 
 | Gra lub dodatek | Przetłumaczone | Sprawdzone w grze | Status |
 | --- | ---: | ---: | --- |
-| Rome (gra podstawowa) | 1362/4733 (28,78%) | 1348/4733 (28,48%) | Tylko obszary z ustalonym pełnym zakresem |
+| Rome (gra podstawowa) | 1362/4733 (28,78%) | 1362/4733 (28,78%) | Tylko obszary z ustalonym pełnym zakresem |
 | Barbarian Invasion | 102/102 (100%) | 102/102 (100%) | W ustalonym zakresie dyplomacji Hunów i nomadów |
 | Alexander | — | — | W kolejce |
 
@@ -50,7 +50,7 @@ Pliki źródłowe moda zawierają razem **3131 unikalnych kluczy liczonych w obr
 | Bitwy historyczne | 38 | 34 | Menu wyboru bitwy i armii, podpowiedzi oraz zidentyfikowane opisy bitew podstawowego Rome. Pełny zakres w ustalaniu. |
 | Tytuły i opisy bitew historycznych | 20/20 (100%) | 20/20 (100%) | Tytuł i opis każdego z 10 scenariuszy jednoosobowych podstawowego Rome w `Rome-PL/data/text/battle_descriptions.txt`. |
 | Karty jednostek w bitwach | 102 | 102 | Statystyki, podpowiedzi, cechy i zdolności jednostek. |
-| Rodzaje jednostek | 14/14 (100%) | 0/14 (0%) | Polskie nadpisania `Rome.Override.BMT_UNIT_*` w `en.strings` dla kluczy z `battle.txt`. |
+| Rodzaje jednostek | 14/14 (100%) | 14/14 (100%) | Polskie nadpisania `Rome.Override.BMT_UNIT_*` w `en.strings` dla kluczy z `battle.txt`. |
 | Cele i daty bitew | 20 | 20 | Cele, wymagania liczebności i formaty lat w menu oraz na ekranie bitwy. |
 | Kampania imperialna | 155 | 155 | Wybór frakcji, ustawienia kampanii, warunki zwycięstwa i opisy modyfikatorów, w tym 38 tytułów i opisów 19 frakcji. Pełny zakres w ustalaniu. |
 | Krótkie opisy frakcji i ich armii | 47 | 47 | 26 wpisów w `en.strings` i 21 w `expanded_bi.txt`. |
