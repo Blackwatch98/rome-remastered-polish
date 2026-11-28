@@ -24,7 +24,7 @@ W repozytorium jest wersja testowa dla podstawowego Rome. Zawiera tłumaczenie z
 
 | Gra lub dodatek | Przetłumaczone | Sprawdzone w grze | Status |
 | --- | ---: | ---: | --- |
-| Rome (gra podstawowa) | 1498/4733 (31,65%) | 1493/4733 (31,54%) | Tylko obszary z ustalonym pełnym zakresem |
+| Rome (gra podstawowa) | 1569/4733 (33,15%) | 1493/4733 (31,54%) | Tylko obszary z ustalonym pełnym zakresem |
 | Barbarian Invasion | 102/102 (100%) | 102/102 (100%) | W ustalonym zakresie dyplomacji Hunów i nomadów |
 | Alexander | — | — | W kolejce |
 
@@ -61,7 +61,7 @@ Pliki źródłowe moda zawierają razem **3440 unikalnych kluczy liczonych w obr
 | Budynki i ulepszenia | 0/3164 (0%) | 0/3164 (0%) | `export_buildings.txt` |
 | Kwestie dyplomatyczne | 306/306 (100%) | 306/306 (100%) | Po 51 kwestii rzymskich, barbarzyńskich, kartagińskich, greckich, egipskich i wschodnich. Nadpisania kluczy z `diplomacy.txt` są w `en.strings`. Sprawdzono też w grze 15 dodatkowych kwestii Feral spoza tabeli. Surowy plik zawiera również 102 klucze Hunów i nomadów, przypisane w konfiguracji do Barbarian Invasion. |
 | Interfejs dyplomacji | 173 | 173 | Teksty ofert, żądań, deklaracji, statusów i podpowiedzi. Pełny zakres w ustalaniu. |
-| Regiony i osady kampanii imperialnej | 136/207 (65,70%) | 131/207 (63,29%) | Nadpisania w `en.strings` dla nazw z `imperial_campaign_regions_and_settlement_names.txt`. |
+| Regiony i osady kampanii imperialnej | 207/207 (100%) | 131/207 (63,29%) | Przejrzano wszystkie nazwy z `imperial_campaign_regions_and_settlement_names.txt`. W `en.strings` jest 136 nadpisań. Pozostałe 71 nazw zachowano w oryginale. |
 | Wydarzenia kampanii | — | — | `event_strings.txt`, `event_titles.txt`, `historic_events.txt`, `major_events.txt` |
 | Postacie, cechy i świta | — | — | `names*.txt`, `export_vnvs.txt`, `export_ancillaries.txt` |
 | Interfejs kampanii, bitew i ustawień | — | — | Pozostałe klucze Feral oraz m.in. `expanded*.txt`, `strat.txt`, `battle.txt` i `tooltips.txt` |
